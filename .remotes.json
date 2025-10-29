@@ -1,5 +1,11 @@
 [
   {
+    "package": "RCy3",
+    "url": "https://github.com/cytoscape/RCy3",
+    "via": ["netZooR"],
+    "from": "netZooR"
+  },
+  {
     "package": "SVP",
     "url": "https://github.com/YuLab-SMU/SVP",
     "via": ["ggsc"],
@@ -11,6 +17,12 @@
     "via": ["SpatialFeatureExperiment"],
     "branch": "devel",
     "from": "SpatialFeatureExperiment"
+  },
+  {
+    "package": "cmdstanr",
+    "url": "https://github.com/stan-dev/cmdstanr",
+    "via": ["netZooR"],
+    "from": "netZooR"
   },
   {
     "package": "enrichplot",
@@ -29,5 +41,11 @@
     "url": "https://github.com/cran/lmms",
     "via": ["timeOmics"],
     "from": "timeOmics"
+  },
+  {
+    "package": "pandaR",
+    "url": "https://github.com/jnpaulson/pandaR",
+    "via": ["netZooR"],
+    "from": "netZooR"
   }
 ]
