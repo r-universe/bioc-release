@@ -6240,6 +6240,10 @@
 	path = ggmsa
 	url = https://github.com/bioc/ggmsa
 	branch = RELEASE_3_22
+[submodule "ggpattern"]
+	path = ggpattern
+	url = https://github.com/coolbutuseless/ggpattern
+	registered = false
 [submodule "ggsc"]
 	path = ggsc
 	url = https://github.com/bioc/ggsc
