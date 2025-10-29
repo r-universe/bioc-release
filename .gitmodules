@@ -6758,6 +6758,10 @@
 	path = lmdme
 	url = https://github.com/bioc/lmdme
 	branch = RELEASE_3_22
+[submodule "lmms"]
+	path = lmms
+	url = https://github.com/cran/lmms
+	registered = false
 [submodule "loci2path"]
 	path = loci2path
 	url = https://github.com/bioc/loci2path

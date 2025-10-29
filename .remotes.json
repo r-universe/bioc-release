@@ -23,5 +23,11 @@
     "url": "https://github.com/coolbutuseless/ggpattern",
     "via": ["ALDEx2"],
     "from": "ALDEx2"
+  },
+  {
+    "package": "lmms",
+    "url": "https://github.com/cran/lmms",
+    "via": ["timeOmics"],
+    "from": "timeOmics"
   }
 ]
