@@ -1,5 +1,11 @@
 [
   {
+    "package": "SVP",
+    "url": "https://github.com/YuLab-SMU/SVP",
+    "via": ["ggsc"],
+    "from": "ggsc"
+  },
+  {
     "package": "enrichplot",
     "url": "https://github.com/GuangchuangYu/enrichplot",
     "via": ["ChIPseeker"],
