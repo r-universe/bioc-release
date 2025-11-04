@@ -6,6 +6,13 @@
     "from": "ggsc"
   },
   {
+    "package": "Voyager",
+    "url": "https://github.com/pachterlab/voyager",
+    "via": ["SpatialFeatureExperiment"],
+    "branch": "devel",
+    "from": "SpatialFeatureExperiment"
+  },
+  {
     "package": "enrichplot",
     "url": "https://github.com/GuangchuangYu/enrichplot",
     "via": ["ChIPseeker"],
