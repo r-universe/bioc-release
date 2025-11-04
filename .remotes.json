@@ -1,5 +1,11 @@
 [
   {
+    "package": "enrichplot",
+    "url": "https://github.com/GuangchuangYu/enrichplot",
+    "via": ["ChIPseeker"],
+    "from": "ChIPseeker"
+  },
+  {
     "package": "ggpattern",
     "url": "https://github.com/coolbutuseless/ggpattern",
     "via": ["ALDEx2"],
