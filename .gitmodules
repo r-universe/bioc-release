@@ -8992,7 +8992,7 @@
 [submodule "tidySpatialExperiment"]
 	path = tidySpatialExperiment
 	url = https://github.com/bioc/tidySpatialExperiment
-	branch = devel
+	branch = RELEASE_3_22
 [submodule "tidySummarizedExperiment"]
 	path = tidySummarizedExperiment
 	url = https://github.com/bioc/tidySummarizedExperiment
