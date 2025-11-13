@@ -7776,7 +7776,7 @@
 [submodule "pmp"]
 	path = pmp
 	url = https://github.com/bioc/pmp
-	branch = devel
+	branch = RELEASE_3_22
 [submodule "podkat"]
 	path = podkat
 	url = https://github.com/bioc/podkat
