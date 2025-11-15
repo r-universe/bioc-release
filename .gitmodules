@@ -4686,7 +4686,7 @@
 [submodule "amplican"]
 	path = amplican
 	url = https://github.com/bioc/amplican
-	branch = devel
+	branch = RELEASE_3_22
 [submodule "anansi"]
 	path = anansi
 	url = https://github.com/bioc/anansi
