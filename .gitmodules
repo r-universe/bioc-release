@@ -2956,7 +2956,7 @@
 [submodule "OSTA.data"]
 	path = OSTA.data
 	url = https://github.com/bioc/OSTA.data
-	branch = devel
+	branch = RELEASE_3_22
 [submodule "OTUbase"]
 	path = OTUbase
 	url = https://github.com/bioc/OTUbase
@@ -3395,7 +3395,7 @@
 [submodule "RNAdecay"]
 	path = RNAdecay
 	url = https://github.com/bioc/RNAdecay
-	branch = devel
+	branch = RELEASE_3_22
 [submodule "RNAmodR"]
 	path = RNAmodR
 	url = https://github.com/bioc/RNAmodR
