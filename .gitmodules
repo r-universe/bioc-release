@@ -1787,7 +1787,7 @@
 [submodule "GeneTonic"]
 	path = GeneTonic
 	url = https://github.com/bioc/GeneTonic
-	branch = devel
+	branch = RELEASE_3_22
 [submodule "GeneticsPed"]
 	path = GeneticsPed
 	url = https://github.com/bioc/GeneticsPed
@@ -8622,6 +8622,7 @@
 [submodule "seqArchR"]
 	path = seqArchR
 	url = https://github.com/bioc/seqArchR
+	branch = RELEASE_3_22
 [submodule "seqArchRplus"]
 	path = seqArchRplus
 	url = https://github.com/bioc/seqArchRplus
