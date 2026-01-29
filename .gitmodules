@@ -5302,10 +5302,6 @@
 	path = cmapR
 	url = https://github.com/bioc/cmapR
 	branch = RELEASE_3_22
-[submodule "cmdstanr"]
-	path = cmdstanr
-	url = https://github.com/stan-dev/cmdstanr
-	registered = false
 [submodule "cn.farms"]
 	path = cn.farms
 	url = https://github.com/bioc/cn.farms
@@ -6314,10 +6310,6 @@
 	path = ggmsa
 	url = https://github.com/bioc/ggmsa
 	branch = RELEASE_3_22
-[submodule "ggpattern"]
-	path = ggpattern
-	url = https://github.com/coolbutuseless/ggpattern
-	registered = false
 [submodule "ggsc"]
 	path = ggsc
 	url = https://github.com/bioc/ggsc
@@ -6858,10 +6850,6 @@
 	path = lmdme
 	url = https://github.com/bioc/lmdme
 	branch = RELEASE_3_22
-[submodule "lmms"]
-	path = lmms
-	url = https://github.com/cran/lmms
-	registered = false
 [submodule "loci2path"]
 	path = loci2path
 	url = https://github.com/bioc/loci2path
