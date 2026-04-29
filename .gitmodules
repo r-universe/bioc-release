@@ -545,7 +545,7 @@
 [submodule "BumpyMatrix"]
 	path = BumpyMatrix
 	url = https://github.com/bioc/BumpyMatrix
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "CAEN"]
 	path = CAEN
 	url = https://github.com/bioc/CAEN
@@ -797,7 +797,7 @@
 [submodule "Category"]
 	path = Category
 	url = https://github.com/bioc/Category
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "CatsCradle"]
 	path = CatsCradle
 	url = https://github.com/bioc/CatsCradle
@@ -897,7 +897,7 @@
 [submodule "ChemmineR"]
 	path = ChemmineR
 	url = https://github.com/bioc/ChemmineR
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "Chicago"]
 	path = Chicago
 	url = https://github.com/bioc/Chicago
@@ -989,7 +989,7 @@
 [submodule "ConsensusClusterPlus"]
 	path = ConsensusClusterPlus
 	url = https://github.com/bioc/ConsensusClusterPlus
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "CopyNumberPlots"]
 	path = CopyNumberPlots
 	url = https://github.com/bioc/CopyNumberPlots
@@ -1065,7 +1065,7 @@
 [submodule "DECIPHER"]
 	path = DECIPHER
 	url = https://github.com/bioc/DECIPHER
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "DEFormats"]
 	path = DEFormats
 	url = https://github.com/bioc/DEFormats
@@ -1197,7 +1197,7 @@
 [submodule "DSS"]
 	path = DSS
 	url = https://github.com/bioc/DSS
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "DTA"]
 	path = DTA
 	url = https://github.com/bioc/DTA
@@ -1345,7 +1345,7 @@
 [submodule "EBSeq"]
 	path = EBSeq
 	url = https://github.com/bioc/EBSeq
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "EBarrays"]
 	path = EBarrays
 	url = https://github.com/bioc/EBarrays
@@ -1357,7 +1357,7 @@
 [submodule "EDASeq"]
 	path = EDASeq
 	url = https://github.com/bioc/EDASeq
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "EDIRquery"]
 	path = EDIRquery
 	url = https://github.com/bioc/EDIRquery
@@ -1637,7 +1637,7 @@
 [submodule "GOSemSim"]
 	path = GOSemSim
 	url = https://github.com/bioc/GOSemSim
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "GOTHiC"]
 	path = GOTHiC
 	url = https://github.com/bioc/GOTHiC
@@ -1657,7 +1657,7 @@
 [submodule "GOstats"]
 	path = GOstats
 	url = https://github.com/bioc/GOstats
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "GPA"]
 	path = GPA
 	url = https://github.com/bioc/GPA
@@ -1845,7 +1845,7 @@
 [submodule "GenomicScores"]
 	path = GenomicScores
 	url = https://github.com/bioc/GenomicScores
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "GenomicSuperSignature"]
 	path = GenomicSuperSignature
 	url = https://github.com/bioc/GenomicSuperSignature
@@ -2025,7 +2025,7 @@
 [submodule "HiCcompare"]
 	path = HiCcompare
 	url = https://github.com/bioc/HiCcompare
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "HiContacts"]
 	path = HiContacts
 	url = https://github.com/bioc/HiContacts
@@ -2233,7 +2233,7 @@
 [submodule "KEGGgraph"]
 	path = KEGGgraph
 	url = https://github.com/bioc/KEGGgraph
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "KEGGlincs"]
 	path = KEGGlincs
 	url = https://github.com/bioc/KEGGlincs
@@ -2517,7 +2517,7 @@
 [submodule "MSstats"]
 	path = MSstats
 	url = https://github.com/bioc/MSstats
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "MSstatsBig"]
 	path = MSstatsBig
 	url = https://github.com/bioc/MSstatsBig
@@ -2529,7 +2529,7 @@
 [submodule "MSstatsConvert"]
 	path = MSstatsConvert
 	url = https://github.com/bioc/MSstatsConvert
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "MSstatsLOBD"]
 	path = MSstatsLOBD
 	url = https://github.com/bioc/MSstatsLOBD
@@ -2589,7 +2589,7 @@
 [submodule "MassSpecWavelet"]
 	path = MassSpecWavelet
 	url = https://github.com/bioc/MassSpecWavelet
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "MatrixGenerics"]
 	path = MatrixGenerics
 	url = https://github.com/bioc/MatrixGenerics
@@ -2661,7 +2661,7 @@
 [submodule "MetaboCoreUtils"]
 	path = MetaboCoreUtils
 	url = https://github.com/bioc/MetaboCoreUtils
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "MetaboDynamics"]
 	path = MetaboDynamics
 	url = https://github.com/bioc/MetaboDynamics
@@ -2825,7 +2825,7 @@
 [submodule "MultiDataSet"]
 	path = MultiDataSet
 	url = https://github.com/bioc/MultiDataSet
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "MultiMed"]
 	path = MultiMed
 	url = https://github.com/bioc/MultiMed
@@ -3017,7 +3017,7 @@
 [submodule "OrganismDbi"]
 	path = OrganismDbi
 	url = https://github.com/bioc/OrganismDbi
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "Oscope"]
 	path = Oscope
 	url = https://github.com/bioc/Oscope
@@ -3241,7 +3241,7 @@
 [submodule "QFeatures"]
 	path = QFeatures
 	url = https://github.com/bioc/QFeatures
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "QRscore"]
 	path = QRscore
 	url = https://github.com/bioc/QRscore
@@ -3501,7 +3501,7 @@
 [submodule "RUVSeq"]
 	path = RUVSeq
 	url = https://github.com/bioc/RUVSeq
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "RUVcorr"]
 	path = RUVcorr
 	url = https://github.com/bioc/RUVcorr
@@ -3549,7 +3549,7 @@
 [submodule "Rbowtie2"]
 	path = Rbowtie2
 	url = https://github.com/bioc/Rbowtie2
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "RbowtieCuda"]
 	path = RbowtieCuda
 	url = https://github.com/bioc/RbowtieCuda
@@ -3597,7 +3597,7 @@
 [submodule "ReactomePA"]
 	path = ReactomePA
 	url = https://github.com/bioc/ReactomePA
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "ReadqPCR"]
 	path = ReadqPCR
 	url = https://github.com/bioc/ReadqPCR
@@ -3605,7 +3605,7 @@
 [submodule "RedeR"]
 	path = RedeR
 	url = https://github.com/bioc/RedeR
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "RedisParam"]
 	path = RedisParam
 	url = https://github.com/bioc/RedisParam
@@ -3713,7 +3713,7 @@
 [submodule "Rsubread"]
 	path = Rsubread
 	url = https://github.com/bioc/Rsubread
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "Rtpca"]
 	path = Rtpca
 	url = https://github.com/bioc/Rtpca
@@ -3857,7 +3857,7 @@
 [submodule "SNPRelate"]
 	path = SNPRelate
 	url = https://github.com/bioc/SNPRelate
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "SNPediaR"]
 	path = SNPediaR
 	url = https://github.com/bioc/SNPediaR
@@ -3921,7 +3921,7 @@
 [submodule "STRINGdb"]
 	path = STRINGdb
 	url = https://github.com/bioc/STRINGdb
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "SUITOR"]
 	path = SUITOR
 	url = https://github.com/bioc/SUITOR
@@ -3953,7 +3953,7 @@
 [submodule "ScaledMatrix"]
 	path = ScaledMatrix
 	url = https://github.com/bioc/ScaledMatrix
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "Sconify"]
 	path = Sconify
 	url = https://github.com/bioc/Sconify
@@ -3969,7 +3969,7 @@
 [submodule "SeqArray"]
 	path = SeqArray
 	url = https://github.com/bioc/SeqArray
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "SeqGSEA"]
 	path = SeqGSEA
 	url = https://github.com/bioc/SeqGSEA
@@ -4109,7 +4109,7 @@
 [submodule "Spectra"]
 	path = Spectra
 	url = https://github.com/bioc/Spectra
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "SpectraQL"]
 	path = SpectraQL
 	url = https://github.com/bioc/SpectraQL
@@ -4217,11 +4217,11 @@
 [submodule "TCGAbiolinks"]
 	path = TCGAbiolinks
 	url = https://github.com/bioc/TCGAbiolinks
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "TCGAutils"]
 	path = TCGAutils
 	url = https://github.com/bioc/TCGAutils
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "TCseq"]
 	path = TCseq
 	url = https://github.com/bioc/TCseq
@@ -4257,7 +4257,7 @@
 [submodule "TFBSTools"]
 	path = TFBSTools
 	url = https://github.com/bioc/TFBSTools
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "TFEA.ChIP"]
 	path = TFEA.ChIP
 	url = https://github.com/bioc/TFEA.ChIP
@@ -4385,7 +4385,7 @@
 [submodule "TreeSummarizedExperiment"]
 	path = TreeSummarizedExperiment
 	url = https://github.com/bioc/TreeSummarizedExperiment
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "Trendy"]
 	path = Trendy
 	url = https://github.com/bioc/Trendy
@@ -4585,7 +4585,7 @@
 [submodule "affxparser"]
 	path = affxparser
 	url = https://github.com/bioc/affxparser
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "affy"]
 	path = affy
 	url = https://github.com/bioc/affy
@@ -4613,7 +4613,7 @@
 [submodule "affyio"]
 	path = affyio
 	url = https://github.com/bioc/affyio
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "affylmGUI"]
 	path = affylmGUI
 	url = https://github.com/bioc/affylmGUI
@@ -4653,7 +4653,7 @@
 [submodule "alabaster.matrix"]
 	path = alabaster.matrix
 	url = https://github.com/bioc/alabaster.matrix
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "alabaster.ranges"]
 	path = alabaster.ranges
 	url = https://github.com/bioc/alabaster.ranges
@@ -4661,7 +4661,7 @@
 [submodule "alabaster.sce"]
 	path = alabaster.sce
 	url = https://github.com/bioc/alabaster.sce
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "alabaster.schemas"]
 	path = alabaster.schemas
 	url = https://github.com/bioc/alabaster.schemas
@@ -4669,7 +4669,7 @@
 [submodule "alabaster.se"]
 	path = alabaster.se
 	url = https://github.com/bioc/alabaster.se
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "alabaster.sfe"]
 	path = alabaster.sfe
 	url = https://github.com/bioc/alabaster.sfe
@@ -4733,7 +4733,7 @@
 [submodule "annotatr"]
 	path = annotatr
 	url = https://github.com/bioc/annotatr
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "anota"]
 	path = anota
 	url = https://github.com/bioc/anota
@@ -4753,7 +4753,7 @@
 [submodule "apeglm"]
 	path = apeglm
 	url = https://github.com/bioc/apeglm
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "appreci8R"]
 	path = appreci8R
 	url = https://github.com/bioc/appreci8R
@@ -4817,7 +4817,7 @@
 [submodule "bamsignals"]
 	path = bamsignals
 	url = https://github.com/bioc/bamsignals
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "bandle"]
 	path = bandle
 	url = https://github.com/bioc/bandle
@@ -4853,7 +4853,7 @@
 [submodule "batchelor"]
 	path = batchelor
 	url = https://github.com/bioc/batchelor
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "bayNorm"]
 	path = bayNorm
 	url = https://github.com/bioc/bayNorm
@@ -4881,7 +4881,7 @@
 [submodule "beadarray"]
 	path = beadarray
 	url = https://github.com/bioc/beadarray
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "bedbaser"]
 	path = bedbaser
 	url = https://github.com/bioc/bedbaser
@@ -4997,7 +4997,7 @@
 [submodule "biovizBase"]
 	path = biovizBase
 	url = https://github.com/bioc/biovizBase
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "biscuiteer"]
 	path = biscuiteer
 	url = https://github.com/bioc/biscuiteer
@@ -5049,7 +5049,7 @@
 [submodule "bsseq"]
 	path = bsseq
 	url = https://github.com/bioc/bsseq
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "bugsigdbr"]
 	path = bugsigdbr
 	url = https://github.com/bioc/bugsigdbr
@@ -5441,7 +5441,7 @@
 [submodule "crisprBase"]
 	path = crisprBase
 	url = https://github.com/bioc/crisprBase
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "crisprBowtie"]
 	path = crisprBowtie
 	url = https://github.com/bioc/crisprBowtie
@@ -5485,7 +5485,7 @@
 [submodule "csaw"]
 	path = csaw
 	url = https://github.com/bioc/csaw
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "csdR"]
 	path = csdR
 	url = https://github.com/bioc/csdR
@@ -5621,7 +5621,7 @@
 [submodule "decoupleR"]
 	path = decoupleR
 	url = https://github.com/bioc/decoupleR
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "deepSNV"]
 	path = deepSNV
 	url = https://github.com/bioc/deepSNV
@@ -5649,7 +5649,7 @@
 [submodule "derfinder"]
 	path = derfinder
 	url = https://github.com/bioc/derfinder
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "derfinderHelper"]
 	path = derfinderHelper
 	url = https://github.com/bioc/derfinderHelper
@@ -5697,7 +5697,7 @@
 [submodule "dir.expiry"]
 	path = dir.expiry
 	url = https://github.com/bioc/dir.expiry
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "discordant"]
 	path = discordant
 	url = https://github.com/bioc/discordant
@@ -5873,7 +5873,7 @@
 [submodule "epivizrServer"]
 	path = epivizrServer
 	url = https://github.com/bioc/epivizrServer
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "epivizrStandalone"]
 	path = epivizrStandalone
 	url = https://github.com/bioc/epivizrStandalone
@@ -6089,11 +6089,11 @@
 [submodule "flowViz"]
 	path = flowViz
 	url = https://github.com/bioc/flowViz
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "flowWorkspace"]
 	path = flowWorkspace
 	url = https://github.com/bioc/flowWorkspace
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "flowcatchR"]
 	path = flowcatchR
 	url = https://github.com/bioc/flowcatchR
@@ -6253,7 +6253,7 @@
 [submodule "genomation"]
 	path = genomation
 	url = https://github.com/bioc/genomation
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "genomeIntervals"]
 	path = genomeIntervals
 	url = https://github.com/bioc/genomeIntervals
@@ -6345,7 +6345,7 @@
 [submodule "glmGamPoi"]
 	path = glmGamPoi
 	url = https://github.com/bioc/glmGamPoi
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "glmSparseNet"]
 	path = glmSparseNet
 	url = https://github.com/bioc/glmSparseNet
@@ -6357,7 +6357,7 @@
 [submodule "globaltest"]
 	path = globaltest
 	url = https://github.com/bioc/globaltest
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "gmapR"]
 	path = gmapR
 	url = https://github.com/bioc/gmapR
@@ -6389,7 +6389,7 @@
 [submodule "goseq"]
 	path = goseq
 	url = https://github.com/bioc/goseq
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "gpls"]
 	path = gpls
 	url = https://github.com/bioc/gpls
@@ -6413,7 +6413,7 @@
 [submodule "graphite"]
 	path = graphite
 	url = https://github.com/bioc/graphite
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "groHMM"]
 	path = groHMM
 	url = https://github.com/bioc/groHMM
@@ -6661,7 +6661,7 @@
 [submodule "illuminaio"]
 	path = illuminaio
 	url = https://github.com/bioc/illuminaio
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "imageTCGA"]
 	path = imageTCGA
 	url = https://github.com/bioc/imageTCGA
@@ -6753,7 +6753,7 @@
 [submodule "karyoploteR"]
 	path = karyoploteR
 	url = https://github.com/bioc/karyoploteR
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "katdetectr"]
 	path = katdetectr
 	url = https://github.com/bioc/katdetectr
@@ -6913,7 +6913,7 @@
 [submodule "maftools"]
 	path = maftools
 	url = https://github.com/bioc/maftools
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "magpie"]
 	path = magpie
 	url = https://github.com/bioc/magpie
@@ -7053,7 +7053,7 @@
 [submodule "metapod"]
 	path = metapod
 	url = https://github.com/bioc/metapod
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "metapone"]
 	path = metapone
 	url = https://github.com/bioc/metapone
@@ -7169,7 +7169,7 @@
 [submodule "mia"]
 	path = mia
 	url = https://github.com/bioc/mia
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "miaDash"]
 	path = miaDash
 	url = https://github.com/bioc/miaDash
@@ -7225,7 +7225,7 @@
 [submodule "minet"]
 	path = minet
 	url = https://github.com/bioc/minet
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "minfi"]
 	path = minfi
 	url = https://github.com/bioc/minfi
@@ -7309,7 +7309,7 @@
 [submodule "motifStack"]
 	path = motifStack
 	url = https://github.com/bioc/motifStack
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "motifTestR"]
 	path = motifTestR
 	url = https://github.com/bioc/motifTestR
@@ -7325,7 +7325,7 @@
 [submodule "motifmatchr"]
 	path = motifmatchr
 	url = https://github.com/bioc/motifmatchr
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "mpra"]
 	path = mpra
 	url = https://github.com/bioc/mpra
@@ -7341,7 +7341,7 @@
 [submodule "msa"]
 	path = msa
 	url = https://github.com/bioc/msa
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "msgbsR"]
 	path = msgbsR
 	url = https://github.com/bioc/msgbsR
@@ -7561,11 +7561,11 @@
 [submodule "oligo"]
 	path = oligo
 	url = https://github.com/bioc/oligo
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "oligoClasses"]
 	path = oligoClasses
 	url = https://github.com/bioc/oligoClasses
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "omXplore"]
 	path = omXplore
 	url = https://github.com/bioc/omXplore
@@ -7725,7 +7725,7 @@
 [submodule "pathview"]
 	path = pathview
 	url = https://github.com/bioc/pathview
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "pathwayPCA"]
 	path = pathwayPCA
 	url = https://github.com/bioc/pathwayPCA
@@ -8173,7 +8173,7 @@
 [submodule "regioneR"]
 	path = regioneR
 	url = https://github.com/bioc/regioneR
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "regioneReloaded"]
 	path = regioneReloaded
 	url = https://github.com/bioc/regioneReloaded
@@ -8281,7 +8281,7 @@
 [submodule "ropls"]
 	path = ropls
 	url = https://github.com/bioc/ropls
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "rprimer"]
 	path = rprimer
 	url = https://github.com/bioc/rprimer
@@ -8645,7 +8645,7 @@
 [submodule "seqLogo"]
 	path = seqLogo
 	url = https://github.com/bioc/seqLogo
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "seqPattern"]
 	path = seqPattern
 	url = https://github.com/bioc/seqPattern
@@ -8701,7 +8701,7 @@
 [submodule "siggenes"]
 	path = siggenes
 	url = https://github.com/bioc/siggenes
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "sights"]
 	path = sights
 	url = https://github.com/bioc/sights
@@ -8753,7 +8753,7 @@
 [submodule "singscore"]
 	path = singscore
 	url = https://github.com/bioc/singscore
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "sitadela"]
 	path = sitadela
 	url = https://github.com/bioc/sitadela
@@ -8809,7 +8809,7 @@
 [submodule "snpStats"]
 	path = snpStats
 	url = https://github.com/bioc/snpStats
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "soGGi"]
 	path = soGGi
 	url = https://github.com/bioc/soGGi
@@ -8993,7 +8993,7 @@
 [submodule "survcomp"]
 	path = survcomp
 	url = https://github.com/bioc/survcomp
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "survtype"]
 	path = survtype
 	url = https://github.com/bioc/survtype
@@ -9169,7 +9169,7 @@
 [submodule "topGO"]
 	path = topGO
 	url = https://github.com/bioc/topGO
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "topconfects"]
 	path = topconfects
 	url = https://github.com/bioc/topconfects
@@ -9301,7 +9301,7 @@
 [submodule "universalmotif"]
 	path = universalmotif
 	url = https://github.com/bioc/universalmotif
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "updateObject"]
 	path = updateObject
 	url = https://github.com/bioc/updateObject
@@ -9405,7 +9405,7 @@
 [submodule "xcms"]
 	path = xcms
 	url = https://github.com/bioc/xcms
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "xcore"]
 	path = xcore
 	url = https://github.com/bioc/xcore
@@ -9433,7 +9433,7 @@
 [submodule "zellkonverter"]
 	path = zellkonverter
 	url = https://github.com/bioc/zellkonverter
-	branch = RELEASE_3_22
+	branch = RELEASE_3_23
 [submodule "zenith"]
 	path = zenith
 	url = https://github.com/bioc/zenith
