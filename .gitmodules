@@ -1,7 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	branch = HEAD
+	url = https://github.com/bioc/manifest
+	branch = RELEASE_3_23
 [submodule "ABSSeq"]
 	path = ABSSeq
 	url = https://github.com/bioc/ABSSeq
@@ -8716,7 +8716,7 @@
 	branch = RELEASE_3_23
 [submodule "scafari"]
 	path = scafari
-	url = https://git.bioconductor.org/packages/scafari
+	url = https://github.com/bioc/scafari
 	branch = RELEASE_3_23
 [submodule "scanMiR"]
 	path = scanMiR
@@ -8952,7 +8952,7 @@
 	branch = RELEASE_3_23
 [submodule "singIST"]
 	path = singIST
-	url = https://git.bioconductor.org/packages/singIST
+	url = https://github.com/bioc/singIST
 	branch = RELEASE_3_23
 [submodule "singleCellTK"]
 	path = singleCellTK
