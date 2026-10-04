@@ -54,6 +54,16 @@
 	path = ALDEx2
 	url = https://github.com/bioc/ALDEx2
 	branch = RELEASE_3_23
+[submodule "ALL"]
+	path = ALL
+	url = https://github.com/bioc/ALL
+	branch = RELEASE_3_23
+	type = data
+[submodule "ALLMLL"]
+	path = ALLMLL
+	url = https://github.com/bioc/ALLMLL
+	branch = RELEASE_3_23
+	type = data
 [submodule "AMARETTO"]
 	path = AMARETTO
 	url = https://github.com/bioc/AMARETTO
@@ -78,6 +88,11 @@
 	path = APL
 	url = https://github.com/bioc/APL
 	branch = RELEASE_3_23
+[submodule "ARRmData"]
+	path = ARRmData
+	url = https://github.com/bioc/ARRmData
+	branch = RELEASE_3_23
+	type = data
 [submodule "ARRmNormalization"]
 	path = ARRmNormalization
 	url = https://github.com/bioc/ARRmNormalization
@@ -98,6 +113,11 @@
 	path = ASICS
 	url = https://github.com/bioc/ASICS
 	branch = RELEASE_3_23
+[submodule "ASICSdata"]
+	path = ASICSdata
+	url = https://github.com/bioc/ASICSdata
+	branch = RELEASE_3_23
+	type = data
 [submodule "ASSET"]
 	path = ASSET
 	url = https://github.com/bioc/ASSET
@@ -130,6 +150,11 @@
 	path = AWAggregator
 	url = https://github.com/bioc/AWAggregator
 	branch = RELEASE_3_23
+[submodule "AWAggregatorData"]
+	path = AWAggregatorData
+	url = https://github.com/bioc/AWAggregatorData
+	branch = RELEASE_3_23
+	type = data
 [submodule "AWFisher"]
 	path = AWFisher
 	url = https://github.com/bioc/AWFisher
@@ -146,6 +171,31 @@
 	path = AffyRNADegradation
 	url = https://github.com/bioc/AffyRNADegradation
 	branch = RELEASE_3_23
+[submodule "Affyhgu133A2Expr"]
+	path = Affyhgu133A2Expr
+	url = https://github.com/bioc/Affyhgu133A2Expr
+	branch = RELEASE_3_23
+	type = data
+[submodule "Affyhgu133Plus2Expr"]
+	path = Affyhgu133Plus2Expr
+	url = https://git.bioconductor.org/packages/Affyhgu133Plus2Expr
+	branch = RELEASE_3_23
+	type = data
+[submodule "Affyhgu133aExpr"]
+	path = Affyhgu133aExpr
+	url = https://git.bioconductor.org/packages/Affyhgu133aExpr
+	branch = RELEASE_3_23
+	type = data
+[submodule "AffymetrixDataTestFiles"]
+	path = AffymetrixDataTestFiles
+	url = https://github.com/bioc/AffymetrixDataTestFiles
+	branch = RELEASE_3_23
+	type = data
+[submodule "Affymoe4302Expr"]
+	path = Affymoe4302Expr
+	url = https://git.bioconductor.org/packages/Affymoe4302Expr
+	branch = RELEASE_3_23
+	type = data
 [submodule "AgiMicroRna"]
 	path = AgiMicroRna
 	url = https://github.com/bioc/AgiMicroRna
@@ -166,6 +216,11 @@
 	path = AlpsNMR
 	url = https://github.com/bioc/AlpsNMR
 	branch = RELEASE_3_23
+[submodule "AmpAffyExample"]
+	path = AmpAffyExample
+	url = https://github.com/bioc/AmpAffyExample
+	branch = RELEASE_3_23
+	type = data
 [submodule "AnVIL"]
 	path = AnVIL
 	url = https://github.com/bioc/AnVIL
@@ -222,10 +277,20 @@
 	path = ArrayExpress
 	url = https://github.com/bioc/ArrayExpress
 	branch = RELEASE_3_23
+[submodule "AshkenazimSonChr21"]
+	path = AshkenazimSonChr21
+	url = https://github.com/bioc/AshkenazimSonChr21
+	branch = RELEASE_3_23
+	type = data
 [submodule "AssessORF"]
 	path = AssessORF
 	url = https://github.com/bioc/AssessORF
 	branch = RELEASE_3_23
+[submodule "AssessORFData"]
+	path = AssessORFData
+	url = https://github.com/bioc/AssessORFData
+	branch = RELEASE_3_23
+	type = data
 [submodule "BADER"]
 	path = BADER
 	url = https://github.com/bioc/BADER
@@ -277,6 +342,10 @@
 [submodule "BOBaFIT"]
 	path = BOBaFIT
 	url = https://github.com/bioc/BOBaFIT
+	branch = RELEASE_3_23
+[submodule "BP4RNAseq"]
+	path = BP4RNAseq
+	url = https://github.com/bioc/BP4RNAseq
 	branch = RELEASE_3_23
 [submodule "BPRMeth"]
 	path = BPRMeth
@@ -366,10 +435,20 @@
 	path = BayesSpace
 	url = https://github.com/bioc/BayesSpace
 	branch = RELEASE_3_23
+[submodule "BeadArrayUseCases"]
+	path = BeadArrayUseCases
+	url = https://github.com/bioc/BeadArrayUseCases
+	branch = RELEASE_3_23
+	type = data
 [submodule "BeadDataPackR"]
 	path = BeadDataPackR
 	url = https://github.com/bioc/BeadDataPackR
 	branch = RELEASE_3_23
+[submodule "BeadSorted.Saliva.EPIC"]
+	path = BeadSorted.Saliva.EPIC
+	url = https://github.com/bioc/BeadSorted.Saliva.EPIC
+	branch = RELEASE_3_23
+	type = data
 [submodule "BgeeCall"]
 	path = BgeeCall
 	url = https://github.com/bioc/BgeeCall
@@ -410,6 +489,11 @@
 	path = BioGA
 	url = https://github.com/bioc/BioGA
 	branch = RELEASE_3_23
+[submodule "BioImageDbs"]
+	path = BioImageDbs
+	url = https://github.com/bioc/BioImageDbs
+	branch = RELEASE_3_23
+	type = data
 [submodule "BioMVCClass"]
 	path = BioMVCClass
 	url = https://github.com/bioc/BioMVCClass
@@ -426,6 +510,11 @@
 	path = BioNet
 	url = https://github.com/bioc/BioNet
 	branch = RELEASE_3_23
+[submodule "BioPlex"]
+	path = BioPlex
+	url = https://github.com/bioc/BioPlex
+	branch = RELEASE_3_23
+	type = data
 [submodule "BioQC"]
 	path = BioQC
 	url = https://github.com/bioc/BioQC
@@ -534,6 +623,11 @@
 	path = Biostrings
 	url = https://github.com/bioc/Biostrings
 	branch = RELEASE_3_23
+[submodule "BloodCancerMultiOmics2017"]
+	path = BloodCancerMultiOmics2017
+	url = https://github.com/bioc/BloodCancerMultiOmics2017
+	branch = RELEASE_3_23
+	type = data
 [submodule "BloodGen3Module"]
 	path = BloodGen3Module
 	url = https://github.com/bioc/BloodGen3Module
@@ -577,6 +671,10 @@
 [submodule "CAFE"]
 	path = CAFE
 	url = https://github.com/bioc/CAFE
+	branch = RELEASE_3_23
+[submodule "CAGEWorkflow"]
+	path = CAGEWorkflow
+	url = https://github.com/bioc/CAGEWorkflow
 	branch = RELEASE_3_23
 [submodule "CAGEfightR"]
 	path = CAGEfightR
@@ -622,6 +720,11 @@
 	path = CCPlotR
 	url = https://github.com/bioc/CCPlotR
 	branch = RELEASE_3_23
+[submodule "CCl4"]
+	path = CCl4
+	url = https://github.com/bioc/CCl4
+	branch = RELEASE_3_23
+	type = data
 [submodule "CDI"]
 	path = CDI
 	url = https://github.com/bioc/CDI
@@ -630,6 +733,11 @@
 	path = CEMiTool
 	url = https://github.com/bioc/CEMiTool
 	branch = RELEASE_3_23
+[submodule "CENTREprecomputed"]
+	path = CENTREprecomputed
+	url = https://github.com/bioc/CENTREprecomputed
+	branch = RELEASE_3_23
+	type = data
 [submodule "CFAssay"]
 	path = CFAssay
 	url = https://github.com/bioc/CFAssay
@@ -666,6 +774,16 @@
 	path = CIMICE
 	url = https://github.com/bioc/CIMICE
 	branch = RELEASE_3_23
+[submodule "CLL"]
+	path = CLL
+	url = https://github.com/bioc/CLL
+	branch = RELEASE_3_23
+	type = data
+[submodule "CLLmethylation"]
+	path = CLLmethylation
+	url = https://github.com/bioc/CLLmethylation
+	branch = RELEASE_3_23
+	type = data
 [submodule "CMA"]
 	path = CMA
 	url = https://github.com/bioc/CMA
@@ -730,6 +848,11 @@
 	path = CODEX
 	url = https://github.com/bioc/CODEX
 	branch = RELEASE_3_23
+[submodule "COHCAPanno"]
+	path = COHCAPanno
+	url = https://github.com/bioc/COHCAPanno
+	branch = RELEASE_3_23
+	type = data
 [submodule "COMPASS"]
 	path = COMPASS
 	url = https://github.com/bioc/COMPASS
@@ -738,10 +861,25 @@
 	path = CONFESS
 	url = https://github.com/bioc/CONFESS
 	branch = RELEASE_3_23
+[submodule "CONFESSdata"]
+	path = CONFESSdata
+	url = https://github.com/bioc/CONFESSdata
+	branch = RELEASE_3_23
+	type = data
 [submodule "CONSTANd"]
 	path = CONSTANd
 	url = https://github.com/bioc/CONSTANd
 	branch = RELEASE_3_23
+[submodule "COPDSexualDimorphism.data"]
+	path = COPDSexualDimorphism.data
+	url = https://github.com/bioc/COPDSexualDimorphism.data
+	branch = RELEASE_3_23
+	type = data
+[submodule "COSMIC.67"]
+	path = COSMIC.67
+	url = https://github.com/bioc/COSMIC.67
+	branch = RELEASE_3_23
+	type = data
 [submodule "COSNet"]
 	path = COSNet
 	url = https://github.com/bioc/COSNet
@@ -754,6 +892,11 @@
 	path = CPSM
 	url = https://github.com/bioc/CPSM
 	branch = RELEASE_3_23
+[submodule "CRCL18"]
+	path = CRCL18
+	url = https://github.com/bioc/CRCL18
+	branch = RELEASE_3_23
+	type = data
 [submodule "CRISPRball"]
 	path = CRISPRball
 	url = https://github.com/bioc/CRISPRball
@@ -814,6 +957,11 @@
 	path = CardinalIO
 	url = https://github.com/bioc/CardinalIO
 	branch = RELEASE_3_23
+[submodule "CardinalWorkflows"]
+	path = CardinalWorkflows
+	url = https://github.com/bioc/CardinalWorkflows
+	branch = RELEASE_3_23
+	type = data
 [submodule "Category"]
 	path = Category
 	url = https://github.com/bioc/Category
@@ -842,6 +990,11 @@
 	path = CellMapper
 	url = https://github.com/bioc/CellMapper
 	branch = RELEASE_3_23
+[submodule "CellMapperData"]
+	path = CellMapperData
+	url = https://github.com/bioc/CellMapperData
+	branch = RELEASE_3_23
+	type = data
 [submodule "CellMentor"]
 	path = CellMentor
 	url = https://github.com/bioc/CellMentor
@@ -874,10 +1027,20 @@
 	path = ChAMP
 	url = https://github.com/bioc/ChAMP
 	branch = RELEASE_3_23
+[submodule "ChAMPdata"]
+	path = ChAMPdata
+	url = https://git.bioconductor.org/packages/ChAMPdata
+	branch = RELEASE_3_23
+	type = data
 [submodule "ChIPComp"]
 	path = ChIPComp
 	url = https://github.com/bioc/ChIPComp
 	branch = RELEASE_3_23
+[submodule "ChIPDBData"]
+	path = ChIPDBData
+	url = https://github.com/bioc/ChIPDBData
+	branch = RELEASE_3_23
+	type = data
 [submodule "ChIPQC"]
 	path = ChIPQC
 	url = https://github.com/bioc/ChIPQC
@@ -886,6 +1049,11 @@
 	path = ChIPXpress
 	url = https://github.com/bioc/ChIPXpress
 	branch = RELEASE_3_23
+[submodule "ChIPXpressData"]
+	path = ChIPXpressData
+	url = https://git.bioconductor.org/packages/ChIPXpressData
+	branch = RELEASE_3_23
+	type = data
 [submodule "ChIPanalyser"]
 	path = ChIPanalyser
 	url = https://github.com/bioc/ChIPanalyser
@@ -894,6 +1062,11 @@
 	path = ChIPexoQual
 	url = https://github.com/bioc/ChIPexoQual
 	branch = RELEASE_3_23
+[submodule "ChIPexoQualExample"]
+	path = ChIPexoQualExample
+	url = https://github.com/bioc/ChIPexoQualExample
+	branch = RELEASE_3_23
+	type = data
 [submodule "ChIPpeakAnno"]
 	path = ChIPpeakAnno
 	url = https://github.com/bioc/ChIPpeakAnno
@@ -922,6 +1095,11 @@
 	path = Chicago
 	url = https://github.com/bioc/Chicago
 	branch = RELEASE_3_23
+[submodule "ChimpHumanBrainData"]
+	path = ChimpHumanBrainData
+	url = https://github.com/bioc/ChimpHumanBrainData
+	branch = RELEASE_3_23
+	type = data
 [submodule "ChromHeatMap"]
 	path = ChromHeatMap
 	url = https://github.com/bioc/ChromHeatMap
@@ -962,6 +1140,11 @@
 	path = CluMSID
 	url = https://github.com/bioc/CluMSID
 	branch = RELEASE_3_23
+[submodule "CluMSIDdata"]
+	path = CluMSIDdata
+	url = https://github.com/bioc/CluMSIDdata
+	branch = RELEASE_3_23
+	type = data
 [submodule "ClustAll"]
 	path = ClustAll
 	url = https://github.com/bioc/ClustAll
@@ -998,6 +1181,11 @@
 	path = CoSIA
 	url = https://github.com/bioc/CoSIA
 	branch = RELEASE_3_23
+[submodule "CoSIAdata"]
+	path = CoSIAdata
+	url = https://github.com/bioc/CoSIAdata
+	branch = RELEASE_3_23
+	type = data
 [submodule "Cogito"]
 	path = Cogito
 	url = https://github.com/bioc/Cogito
@@ -1018,14 +1206,29 @@
 	path = CompoundDb
 	url = https://github.com/bioc/CompoundDb
 	branch = RELEASE_3_23
+[submodule "ConnectivityMap"]
+	path = ConnectivityMap
+	url = https://git.bioconductor.org/packages/ConnectivityMap
+	branch = RELEASE_3_23
+	type = data
 [submodule "ConsensusClusterPlus"]
 	path = ConsensusClusterPlus
 	url = https://github.com/bioc/ConsensusClusterPlus
 	branch = RELEASE_3_23
+[submodule "CopyNeutralIMA"]
+	path = CopyNeutralIMA
+	url = https://github.com/bioc/CopyNeutralIMA
+	branch = RELEASE_3_23
+	type = data
 [submodule "CopyNumberPlots"]
 	path = CopyNumberPlots
 	url = https://github.com/bioc/CopyNumberPlots
 	branch = RELEASE_3_23
+[submodule "CopyhelpeR"]
+	path = CopyhelpeR
+	url = https://github.com/bioc/CopyhelpeR
+	branch = RELEASE_3_23
+	type = data
 [submodule "Coralysis"]
 	path = Coralysis
 	url = https://github.com/bioc/Coralysis
@@ -1074,6 +1277,11 @@
 	path = CytoML
 	url = https://github.com/bioc/CytoML
 	branch = RELEASE_3_23
+[submodule "CytoMethIC"]
+	path = CytoMethIC
+	url = https://github.com/bioc/CytoMethIC
+	branch = RELEASE_3_23
+	type = data
 [submodule "CytoPipeline"]
 	path = CytoPipeline
 	url = https://github.com/bioc/CytoPipeline
@@ -1090,6 +1298,11 @@
 	path = DAPAR
 	url = https://github.com/bioc/DAPAR
 	branch = RELEASE_3_23
+[submodule "DAPARdata"]
+	path = DAPARdata
+	url = https://github.com/bioc/DAPARdata
+	branch = RELEASE_3_23
+	type = data
 [submodule "DART"]
 	path = DART
 	url = https://github.com/bioc/DART
@@ -1158,6 +1371,11 @@
 	path = DExMA
 	url = https://github.com/bioc/DExMA
 	branch = RELEASE_3_23
+[submodule "DExMAdata"]
+	path = DExMAdata
+	url = https://github.com/bioc/DExMAdata
+	branch = RELEASE_3_23
+	type = data
 [submodule "DFP"]
 	path = DFP
 	url = https://github.com/bioc/DFP
@@ -1166,6 +1384,11 @@
 	path = DFplyr
 	url = https://github.com/bioc/DFplyr
 	branch = RELEASE_3_23
+[submodule "DLBCL"]
+	path = DLBCL
+	url = https://github.com/bioc/DLBCL
+	branch = RELEASE_3_23
+	type = data
 [submodule "DMCFB"]
 	path = DMCFB
 	url = https://github.com/bioc/DMCFB
@@ -1186,6 +1409,16 @@
 	path = DMRcate
 	url = https://github.com/bioc/DMRcate
 	branch = RELEASE_3_23
+[submodule "DMRcatedata"]
+	path = DMRcatedata
+	url = https://github.com/bioc/DMRcatedata
+	branch = RELEASE_3_23
+	type = data
+[submodule "DMRsegaldata"]
+	path = DMRsegaldata
+	url = https://github.com/bioc/DMRsegaldata
+	branch = RELEASE_3_23
+	type = data
 [submodule "DNABarcodeCompatibility"]
 	path = DNABarcodeCompatibility
 	url = https://github.com/bioc/DNABarcodeCompatibility
@@ -1194,6 +1427,11 @@
 	path = DNABarcodes
 	url = https://github.com/bioc/DNABarcodes
 	branch = RELEASE_3_23
+[submodule "DNAZooData"]
+	path = DNAZooData
+	url = https://github.com/bioc/DNAZooData
+	branch = RELEASE_3_23
+	type = data
 [submodule "DNAcopy"]
 	path = DNAcopy
 	url = https://github.com/bioc/DNAcopy
@@ -1254,6 +1492,11 @@
 	path = DeMixT
 	url = https://github.com/bioc/DeMixT
 	branch = RELEASE_3_23
+[submodule "DeSousa2013"]
+	path = DeSousa2013
+	url = https://github.com/bioc/DeSousa2013
+	branch = RELEASE_3_23
+	type = data
 [submodule "DeconRNASeq"]
 	path = DeconRNASeq
 	url = https://github.com/bioc/DeconRNASeq
@@ -1338,10 +1581,20 @@
 	path = DiscoRhythm
 	url = https://github.com/bioc/DiscoRhythm
 	branch = RELEASE_3_23
+[submodule "DoReMiTra"]
+	path = DoReMiTra
+	url = https://github.com/bioc/DoReMiTra
+	branch = RELEASE_3_23
+	type = data
 [submodule "DominoEffect"]
 	path = DominoEffect
 	url = https://github.com/bioc/DominoEffect
 	branch = RELEASE_3_23
+[submodule "DonaPLLP2013"]
+	path = DonaPLLP2013
+	url = https://github.com/bioc/DonaPLLP2013
+	branch = RELEASE_3_23
+	type = data
 [submodule "Doscheda"]
 	path = Doscheda
 	url = https://github.com/bioc/Doscheda
@@ -1350,6 +1603,11 @@
 	path = DriverNet
 	url = https://github.com/bioc/DriverNet
 	branch = RELEASE_3_23
+[submodule "DropletTestFiles"]
+	path = DropletTestFiles
+	url = https://github.com/bioc/DropletTestFiles
+	branch = RELEASE_3_23
+	type = data
 [submodule "DropletUtils"]
 	path = DropletUtils
 	url = https://github.com/bioc/DropletUtils
@@ -1358,6 +1616,11 @@
 	path = DrugVsDisease
 	url = https://github.com/bioc/DrugVsDisease
 	branch = RELEASE_3_23
+[submodule "DrugVsDiseasedata"]
+	path = DrugVsDiseasedata
+	url = https://github.com/bioc/DrugVsDiseasedata
+	branch = RELEASE_3_23
+	type = data
 [submodule "DspikeIn"]
 	path = DspikeIn
 	url = https://github.com/bioc/DspikeIn
@@ -1366,10 +1629,20 @@
 	path = Dune
 	url = https://github.com/bioc/Dune
 	branch = RELEASE_3_23
+[submodule "DuoClustering2018"]
+	path = DuoClustering2018
+	url = https://github.com/bioc/DuoClustering2018
+	branch = RELEASE_3_23
+	type = data
 [submodule "DuplexDiscovereR"]
 	path = DuplexDiscovereR
 	url = https://github.com/bioc/DuplexDiscovereR
 	branch = RELEASE_3_23
+[submodule "DvDdata"]
+	path = DvDdata
+	url = https://github.com/bioc/DvDdata
+	branch = RELEASE_3_23
+	type = data
 [submodule "DynDoc"]
 	path = DynDoc
 	url = https://github.com/bioc/DynDoc
@@ -1410,10 +1683,24 @@
 	path = EGSEA
 	url = https://github.com/bioc/EGSEA
 	branch = RELEASE_3_23
+[submodule "EGSEA123"]
+	path = EGSEA123
+	url = https://github.com/bioc/EGSEA123
+	branch = RELEASE_3_23
+[submodule "EGSEAdata"]
+	path = EGSEAdata
+	url = https://github.com/bioc/EGSEAdata
+	branch = RELEASE_3_23
+	type = data
 [submodule "ELMER"]
 	path = ELMER
 	url = https://github.com/bioc/ELMER
 	branch = RELEASE_3_23
+[submodule "ELMER.data"]
+	path = ELMER.data
+	url = https://git.bioconductor.org/packages/ELMER.data
+	branch = RELEASE_3_23
+	type = data
 [submodule "ELViS"]
 	path = ELViS
 	url = https://github.com/bioc/ELViS
@@ -1422,6 +1709,11 @@
 	path = EMDomics
 	url = https://github.com/bioc/EMDomics
 	branch = RELEASE_3_23
+[submodule "EMTscoreData"]
+	path = EMTscoreData
+	url = https://github.com/bioc/EMTscoreData
+	branch = RELEASE_3_23
+	type = data
 [submodule "ENmix"]
 	path = ENmix
 	url = https://github.com/bioc/ENmix
@@ -1438,6 +1730,11 @@
 	path = EasyCellType
 	url = https://github.com/bioc/EasyCellType
 	branch = RELEASE_3_23
+[submodule "EatonEtAlChIPseq"]
+	path = EatonEtAlChIPseq
+	url = https://github.com/bioc/EatonEtAlChIPseq
+	branch = RELEASE_3_23
+	type = data
 [submodule "EmpiricalBrownsMethod"]
 	path = EmpiricalBrownsMethod
 	url = https://github.com/bioc/EmpiricalBrownsMethod
@@ -1474,6 +1771,11 @@
 	path = EpiMix
 	url = https://github.com/bioc/EpiMix
 	branch = RELEASE_3_23
+[submodule "EpiMix.data"]
+	path = EpiMix.data
+	url = https://github.com/bioc/EpiMix.data
+	branch = RELEASE_3_23
+	type = data
 [submodule "EpiTxDb"]
 	path = EpiTxDb
 	url = https://github.com/bioc/EpiTxDb
@@ -1482,6 +1784,11 @@
 	path = EpipwR
 	url = https://github.com/bioc/EpipwR
 	branch = RELEASE_3_23
+[submodule "EpipwR.data"]
+	path = EpipwR.data
+	url = https://github.com/bioc/EpipwR.data
+	branch = RELEASE_3_23
+	type = data
 [submodule "EventPointer"]
 	path = EventPointer
 	url = https://github.com/bioc/EventPointer
@@ -1493,6 +1800,10 @@
 [submodule "ExiMiR"]
 	path = ExiMiR
 	url = https://github.com/bioc/ExiMiR
+	branch = RELEASE_3_23
+[submodule "ExpHunterSuite"]
+	path = ExpHunterSuite
+	url = https://github.com/bioc/ExpHunterSuite
 	branch = RELEASE_3_23
 [submodule "ExperimentHub"]
 	path = ExperimentHub
@@ -1518,6 +1829,15 @@
 	path = ExpressionAtlas
 	url = https://github.com/bioc/ExpressionAtlas
 	branch = RELEASE_3_23
+[submodule "ExpressionNormalizationWorkflow"]
+	path = ExpressionNormalizationWorkflow
+	url = https://github.com/bioc/ExpressionNormalizationWorkflow
+	branch = RELEASE_3_23
+[submodule "FANTOM3and4CAGE"]
+	path = FANTOM3and4CAGE
+	url = https://github.com/bioc/FANTOM3and4CAGE
+	branch = RELEASE_3_23
+	type = data
 [submodule "FEAST"]
 	path = FEAST
 	url = https://github.com/bioc/FEAST
@@ -1534,6 +1854,11 @@
 	path = FISHalyseR
 	url = https://github.com/bioc/FISHalyseR
 	branch = RELEASE_3_23
+[submodule "FIs"]
+	path = FIs
+	url = https://github.com/bioc/FIs
+	branch = RELEASE_3_23
+	type = data
 [submodule "FLAMES"]
 	path = FLAMES
 	url = https://github.com/bioc/FLAMES
@@ -1558,6 +1883,11 @@
 	path = FeatSeekR
 	url = https://github.com/bioc/FeatSeekR
 	branch = RELEASE_3_23
+[submodule "FieldEffectCrc"]
+	path = FieldEffectCrc
+	url = https://github.com/bioc/FieldEffectCrc
+	branch = RELEASE_3_23
+	type = data
 [submodule "FilterFFPE"]
 	path = FilterFFPE
 	url = https://github.com/bioc/FilterFFPE
@@ -1574,10 +1904,50 @@
 	path = FitHiC
 	url = https://github.com/bioc/FitHiC
 	branch = RELEASE_3_23
+[submodule "Fletcher2013a"]
+	path = Fletcher2013a
+	url = https://github.com/bioc/Fletcher2013a
+	branch = RELEASE_3_23
+	type = data
+[submodule "Fletcher2013b"]
+	path = Fletcher2013b
+	url = https://git.bioconductor.org/packages/Fletcher2013b
+	branch = RELEASE_3_23
+	type = data
 [submodule "FlowSOM"]
 	path = FlowSOM
 	url = https://github.com/bioc/FlowSOM
 	branch = RELEASE_3_23
+[submodule "FlowSorted.Blood.450k"]
+	path = FlowSorted.Blood.450k
+	url = https://github.com/bioc/FlowSorted.Blood.450k
+	branch = RELEASE_3_23
+	type = data
+[submodule "FlowSorted.Blood.EPIC"]
+	path = FlowSorted.Blood.EPIC
+	url = https://github.com/bioc/FlowSorted.Blood.EPIC
+	branch = RELEASE_3_23
+	type = data
+[submodule "FlowSorted.CordBlood.450k"]
+	path = FlowSorted.CordBlood.450k
+	url = https://git.bioconductor.org/packages/FlowSorted.CordBlood.450k
+	branch = RELEASE_3_23
+	type = data
+[submodule "FlowSorted.CordBloodCombined.450k"]
+	path = FlowSorted.CordBloodCombined.450k
+	url = https://github.com/bioc/FlowSorted.CordBloodCombined.450k
+	branch = RELEASE_3_23
+	type = data
+[submodule "FlowSorted.CordBloodNorway.450k"]
+	path = FlowSorted.CordBloodNorway.450k
+	url = https://git.bioconductor.org/packages/FlowSorted.CordBloodNorway.450k
+	branch = RELEASE_3_23
+	type = data
+[submodule "FlowSorted.DLPFC.450k"]
+	path = FlowSorted.DLPFC.450k
+	url = https://github.com/bioc/FlowSorted.DLPFC.450k
+	branch = RELEASE_3_23
+	type = data
 [submodule "FuseSOM"]
 	path = FuseSOM
 	url = https://github.com/bioc/FuseSOM
@@ -1662,6 +2032,11 @@
 	path = GIGSEA
 	url = https://github.com/bioc/GIGSEA
 	branch = RELEASE_3_23
+[submodule "GIGSEAdata"]
+	path = GIGSEAdata
+	url = https://github.com/bioc/GIGSEAdata
+	branch = RELEASE_3_23
+	type = data
 [submodule "GLAD"]
 	path = GLAD
 	url = https://github.com/bioc/GLAD
@@ -1738,10 +2113,35 @@
 	path = GSAR
 	url = https://github.com/bioc/GSAR
 	branch = RELEASE_3_23
+[submodule "GSBenchMark"]
+	path = GSBenchMark
+	url = https://github.com/bioc/GSBenchMark
+	branch = RELEASE_3_23
+	type = data
 [submodule "GSCA"]
 	path = GSCA
 	url = https://github.com/bioc/GSCA
 	branch = RELEASE_3_23
+[submodule "GSE103322"]
+	path = GSE103322
+	url = https://github.com/bioc/GSE103322
+	branch = RELEASE_3_23
+	type = data
+[submodule "GSE13015"]
+	path = GSE13015
+	url = https://github.com/bioc/GSE13015
+	branch = RELEASE_3_23
+	type = data
+[submodule "GSE159526"]
+	path = GSE159526
+	url = https://github.com/bioc/GSE159526
+	branch = RELEASE_3_23
+	type = data
+[submodule "GSE62944"]
+	path = GSE62944
+	url = https://github.com/bioc/GSE62944
+	branch = RELEASE_3_23
+	type = data
 [submodule "GSEABase"]
 	path = GSEABase
 	url = https://github.com/bioc/GSEABase
@@ -1770,6 +2170,11 @@
 	path = GSVA
 	url = https://github.com/bioc/GSVA
 	branch = RELEASE_3_23
+[submodule "GSVAdata"]
+	path = GSVAdata
+	url = https://github.com/bioc/GSVAdata
+	branch = RELEASE_3_23
+	type = data
 [submodule "GSgalgoR"]
 	path = GSgalgoR
 	url = https://github.com/bioc/GSgalgoR
@@ -1786,6 +2191,11 @@
 	path = GWASTools
 	url = https://github.com/bioc/GWASTools
 	branch = RELEASE_3_23
+[submodule "GWASdata"]
+	path = GWASdata
+	url = https://github.com/bioc/GWASdata
+	branch = RELEASE_3_23
+	type = data
 [submodule "GWENA"]
 	path = GWENA
 	url = https://github.com/bioc/GWENA
@@ -1874,6 +2284,11 @@
 	path = GenomicDistributions
 	url = https://github.com/bioc/GenomicDistributions
 	branch = RELEASE_3_23
+[submodule "GenomicDistributionsData"]
+	path = GenomicDistributionsData
+	url = https://github.com/bioc/GenomicDistributionsData
+	branch = RELEASE_3_23
+	type = data
 [submodule "GenomicFeatures"]
 	path = GenomicFeatures
 	url = https://github.com/bioc/GenomicFeatures
@@ -1918,6 +2333,10 @@
 	path = GeoDiff
 	url = https://github.com/bioc/GeoDiff
 	branch = RELEASE_3_23
+[submodule "GeoMxWorkflows"]
+	path = GeoMxWorkflows
+	url = https://github.com/bioc/GeoMxWorkflows
+	branch = RELEASE_3_23
 [submodule "GeoTcgaData"]
 	path = GeoTcgaData
 	url = https://github.com/bioc/GeoTcgaData
@@ -1926,6 +2345,11 @@
 	path = GeomxTools
 	url = https://github.com/bioc/GeomxTools
 	branch = RELEASE_3_23
+[submodule "GeuvadisTranscriptExpr"]
+	path = GeuvadisTranscriptExpr
+	url = https://git.bioconductor.org/packages/GeuvadisTranscriptExpr
+	branch = RELEASE_3_23
+	type = data
 [submodule "GladiaTOX"]
 	path = GladiaTOX
 	url = https://github.com/bioc/GladiaTOX
@@ -1974,6 +2398,26 @@
 	path = Gviz
 	url = https://github.com/bioc/Gviz
 	branch = RELEASE_3_23
+[submodule "HCAData"]
+	path = HCAData
+	url = https://github.com/bioc/HCAData
+	branch = RELEASE_3_23
+	type = data
+[submodule "HCATonsilData"]
+	path = HCATonsilData
+	url = https://github.com/bioc/HCATonsilData
+	branch = RELEASE_3_23
+	type = data
+[submodule "HD2013SGI"]
+	path = HD2013SGI
+	url = https://github.com/bioc/HD2013SGI
+	branch = RELEASE_3_23
+	type = data
+[submodule "HDCytoData"]
+	path = HDCytoData
+	url = https://github.com/bioc/HDCytoData
+	branch = RELEASE_3_23
+	type = data
 [submodule "HDF5Array"]
 	path = HDF5Array
 	url = https://github.com/bioc/HDF5Array
@@ -1982,6 +2426,11 @@
 	path = HDTD
 	url = https://github.com/bioc/HDTD
 	branch = RELEASE_3_23
+[submodule "HEEBOdata"]
+	path = HEEBOdata
+	url = https://github.com/bioc/HEEBOdata
+	branch = RELEASE_3_23
+	type = data
 [submodule "HELP"]
 	path = HELP
 	url = https://github.com/bioc/HELP
@@ -2010,10 +2459,25 @@
 	path = HIREewas
 	url = https://github.com/bioc/HIREewas
 	branch = RELEASE_3_23
+[submodule "HIVcDNAvantWout03"]
+	path = HIVcDNAvantWout03
+	url = https://github.com/bioc/HIVcDNAvantWout03
+	branch = RELEASE_3_23
+	type = data
 [submodule "HMMcopy"]
 	path = HMMcopy
 	url = https://github.com/bioc/HMMcopy
 	branch = RELEASE_3_23
+[submodule "HMP16SData"]
+	path = HMP16SData
+	url = https://github.com/bioc/HMP16SData
+	branch = RELEASE_3_23
+	type = data
+[submodule "HMP2Data"]
+	path = HMP2Data
+	url = https://github.com/bioc/HMP2Data
+	branch = RELEASE_3_23
+	type = data
 [submodule "HPAanalyze"]
 	path = HPAanalyze
 	url = https://github.com/bioc/HPAanalyze
@@ -2022,6 +2486,11 @@
 	path = HPiP
 	url = https://github.com/bioc/HPiP
 	branch = RELEASE_3_23
+[submodule "HSMMSingleCell"]
+	path = HSMMSingleCell
+	url = https://github.com/bioc/HSMMSingleCell
+	branch = RELEASE_3_23
+	type = data
 [submodule "HTSFilter"]
 	path = HTSFilter
 	url = https://github.com/bioc/HTSFilter
@@ -2038,10 +2507,20 @@
 	path = Harman
 	url = https://github.com/bioc/Harman
 	branch = RELEASE_3_23
+[submodule "HarmanData"]
+	path = HarmanData
+	url = https://github.com/bioc/HarmanData
+	branch = RELEASE_3_23
+	type = data
 [submodule "HarmonizR"]
 	path = HarmonizR
 	url = https://github.com/bioc/HarmonizR
 	branch = RELEASE_3_23
+[submodule "HarmonizedTCGAData"]
+	path = HarmonizedTCGAData
+	url = https://github.com/bioc/HarmonizedTCGAData
+	branch = RELEASE_3_23
+	type = data
 [submodule "Heatplus"]
 	path = Heatplus
 	url = https://github.com/bioc/Heatplus
@@ -2050,10 +2529,20 @@
 	path = HelloRanges
 	url = https://github.com/bioc/HelloRanges
 	branch = RELEASE_3_23
+[submodule "HelloRangesData"]
+	path = HelloRangesData
+	url = https://github.com/bioc/HelloRangesData
+	branch = RELEASE_3_23
+	type = data
 [submodule "Herper"]
 	path = Herper
 	url = https://github.com/bioc/Herper
 	branch = RELEASE_3_23
+[submodule "HiBED"]
+	path = HiBED
+	url = https://github.com/bioc/HiBED
+	branch = RELEASE_3_23
+	type = data
 [submodule "HiCBricks"]
 	path = HiCBricks
 	url = https://github.com/bioc/HiCBricks
@@ -2066,6 +2555,16 @@
 	path = HiCDOC
 	url = https://github.com/bioc/HiCDOC
 	branch = RELEASE_3_23
+[submodule "HiCDataHumanIMR90"]
+	path = HiCDataHumanIMR90
+	url = https://github.com/bioc/HiCDataHumanIMR90
+	branch = RELEASE_3_23
+	type = data
+[submodule "HiCDataLymphoblast"]
+	path = HiCDataLymphoblast
+	url = https://github.com/bioc/HiCDataLymphoblast
+	branch = RELEASE_3_23
+	type = data
 [submodule "HiCExperiment"]
 	path = HiCExperiment
 	url = https://github.com/bioc/HiCExperiment
@@ -2090,6 +2589,11 @@
 	path = HiContacts
 	url = https://github.com/bioc/HiContacts
 	branch = RELEASE_3_23
+[submodule "HiContactsData"]
+	path = HiContactsData
+	url = https://github.com/bioc/HiContactsData
+	branch = RELEASE_3_23
+	type = data
 [submodule "HiCool"]
 	path = HiCool
 	url = https://github.com/bioc/HiCool
@@ -2110,6 +2614,16 @@
 	path = HicAggR
 	url = https://github.com/bioc/HicAggR
 	branch = RELEASE_3_23
+[submodule "HighlyReplicatedRNASeq"]
+	path = HighlyReplicatedRNASeq
+	url = https://github.com/bioc/HighlyReplicatedRNASeq
+	branch = RELEASE_3_23
+	type = data
+[submodule "Hiiragi2013"]
+	path = Hiiragi2013
+	url = https://github.com/bioc/Hiiragi2013
+	branch = RELEASE_3_23
+	type = data
 [submodule "HilbertCurve"]
 	path = HilbertCurve
 	url = https://github.com/bioc/HilbertCurve
@@ -2138,6 +2652,16 @@
 	path = HubPub
 	url = https://github.com/bioc/HubPub
 	branch = RELEASE_3_23
+[submodule "HumanAffyData"]
+	path = HumanAffyData
+	url = https://github.com/bioc/HumanAffyData
+	branch = RELEASE_3_23
+	type = data
+[submodule "HumanRetinaLRSData"]
+	path = HumanRetinaLRSData
+	url = https://github.com/bioc/HumanRetinaLRSData
+	branch = RELEASE_3_23
+	type = data
 [submodule "HybridExpress"]
 	path = HybridExpress
 	url = https://github.com/bioc/HybridExpress
@@ -2154,6 +2678,11 @@
 	path = IHW
 	url = https://github.com/bioc/IHW
 	branch = RELEASE_3_23
+[submodule "IHWpaper"]
+	path = IHWpaper
+	url = https://github.com/bioc/IHWpaper
+	branch = RELEASE_3_23
+	type = data
 [submodule "ILoReg"]
 	path = ILoReg
 	url = https://github.com/bioc/ILoReg
@@ -2214,6 +2743,11 @@
 	path = ITALICS
 	url = https://github.com/bioc/ITALICS
 	branch = RELEASE_3_23
+[submodule "ITALICSData"]
+	path = ITALICSData
+	url = https://github.com/bioc/ITALICSData
+	branch = RELEASE_3_23
+	type = data
 [submodule "IVAS"]
 	path = IVAS
 	url = https://github.com/bioc/IVAS
@@ -2238,6 +2772,16 @@
 	path = IgGeneUsage
 	url = https://github.com/bioc/IgGeneUsage
 	branch = RELEASE_3_23
+[submodule "Illumina450ProbeVariants.db"]
+	path = Illumina450ProbeVariants.db
+	url = https://github.com/bioc/Illumina450ProbeVariants.db
+	branch = RELEASE_3_23
+	type = data
+[submodule "IlluminaDataTestFiles"]
+	path = IlluminaDataTestFiles
+	url = https://github.com/bioc/IlluminaDataTestFiles
+	branch = RELEASE_3_23
+	type = data
 [submodule "ImageArray"]
 	path = ImageArray
 	url = https://github.com/bioc/ImageArray
@@ -2290,6 +2834,26 @@
 	path = IsoformSwitchAnalyzeR
 	url = https://github.com/bioc/IsoformSwitchAnalyzeR
 	branch = RELEASE_3_23
+[submodule "Iyer517"]
+	path = Iyer517
+	url = https://github.com/bioc/Iyer517
+	branch = RELEASE_3_23
+	type = data
+[submodule "JASPAR2014"]
+	path = JASPAR2014
+	url = https://github.com/bioc/JASPAR2014
+	branch = RELEASE_3_23
+	type = data
+[submodule "JASPAR2016"]
+	path = JASPAR2016
+	url = https://github.com/bioc/JASPAR2016
+	branch = RELEASE_3_23
+	type = data
+[submodule "JohnsonKinaseData"]
+	path = JohnsonKinaseData
+	url = https://github.com/bioc/JohnsonKinaseData
+	branch = RELEASE_3_23
+	type = data
 [submodule "KBoost"]
 	path = KBoost
 	url = https://github.com/bioc/KBoost
@@ -2302,6 +2866,16 @@
 	path = KEGGREST
 	url = https://github.com/bioc/KEGGREST
 	branch = RELEASE_3_23
+[submodule "KEGGandMetacoreDzPathwaysGEO"]
+	path = KEGGandMetacoreDzPathwaysGEO
+	url = https://github.com/bioc/KEGGandMetacoreDzPathwaysGEO
+	branch = RELEASE_3_23
+	type = data
+[submodule "KEGGdzPathwaysGEO"]
+	path = KEGGdzPathwaysGEO
+	url = https://github.com/bioc/KEGGdzPathwaysGEO
+	branch = RELEASE_3_23
+	type = data
 [submodule "KEGGgraph"]
 	path = KEGGgraph
 	url = https://github.com/bioc/KEGGgraph
@@ -2310,6 +2884,11 @@
 	path = KEGGlincs
 	url = https://github.com/bioc/KEGGlincs
 	branch = RELEASE_3_23
+[submodule "KOdata"]
+	path = KOdata
+	url = https://github.com/bioc/KOdata
+	branch = RELEASE_3_23
+	type = data
 [submodule "KinSwingR"]
 	path = KinSwingR
 	url = https://github.com/bioc/KinSwingR
@@ -2358,14 +2937,29 @@
 	path = LRcell
 	url = https://github.com/bioc/LRcell
 	branch = RELEASE_3_23
+[submodule "LRcellTypeMarkers"]
+	path = LRcellTypeMarkers
+	url = https://github.com/bioc/LRcellTypeMarkers
+	branch = RELEASE_3_23
+	type = data
 [submodule "LedPred"]
 	path = LedPred
 	url = https://github.com/bioc/LedPred
 	branch = RELEASE_3_23
+[submodule "LegATo"]
+	path = LegATo
+	url = https://github.com/bioc/LegATo
+	branch = RELEASE_3_23
+	type = data
 [submodule "Lheuristic"]
 	path = Lheuristic
 	url = https://github.com/bioc/Lheuristic
 	branch = RELEASE_3_23
+[submodule "LiebermanAidenHiC2009"]
+	path = LiebermanAidenHiC2009
+	url = https://github.com/bioc/LiebermanAidenHiC2009
+	branch = RELEASE_3_23
+	type = data
 [submodule "LimROTS"]
 	path = LimROTS
 	url = https://github.com/bioc/LimROTS
@@ -2386,10 +2980,25 @@
 	path = LiquidAssociation
 	url = https://github.com/bioc/LiquidAssociation
 	branch = RELEASE_3_23
+[submodule "ListerEtAlBSseq"]
+	path = ListerEtAlBSseq
+	url = https://git.bioconductor.org/packages/ListerEtAlBSseq
+	branch = RELEASE_3_23
+	type = data
 [submodule "LoomExperiment"]
 	path = LoomExperiment
 	url = https://github.com/bioc/LoomExperiment
 	branch = RELEASE_3_23
+[submodule "LungCancerACvsSCCGEO"]
+	path = LungCancerACvsSCCGEO
+	url = https://github.com/bioc/LungCancerACvsSCCGEO
+	branch = RELEASE_3_23
+	type = data
+[submodule "LungCancerLines"]
+	path = LungCancerLines
+	url = https://github.com/bioc/LungCancerLines
+	branch = RELEASE_3_23
+	type = data
 [submodule "LymphoSeq"]
 	path = LymphoSeq
 	url = https://github.com/bioc/LymphoSeq
@@ -2398,6 +3007,11 @@
 	path = M3C
 	url = https://github.com/bioc/M3C
 	branch = RELEASE_3_23
+[submodule "M3DExampleData"]
+	path = M3DExampleData
+	url = https://github.com/bioc/M3DExampleData
+	branch = RELEASE_3_23
+	type = data
 [submodule "M3Drop"]
 	path = M3Drop
 	url = https://github.com/bioc/M3Drop
@@ -2406,6 +3020,11 @@
 	path = MACSQuantifyR
 	url = https://github.com/bioc/MACSQuantifyR
 	branch = RELEASE_3_23
+[submodule "MACSdata"]
+	path = MACSdata
+	url = https://github.com/bioc/MACSdata
+	branch = RELEASE_3_23
+	type = data
 [submodule "MACSr"]
 	path = MACSr
 	url = https://github.com/bioc/MACSr
@@ -2430,6 +3049,11 @@
 	path = MAPFX
 	url = https://github.com/bioc/MAPFX
 	branch = RELEASE_3_23
+[submodule "MAQCsubset"]
+	path = MAQCsubset
+	url = https://github.com/bioc/MAQCsubset
+	branch = RELEASE_3_23
+	type = data
 [submodule "MAST"]
 	path = MAST
 	url = https://github.com/bioc/MAST
@@ -2486,10 +3110,20 @@
 	path = MEDIPS
 	url = https://github.com/bioc/MEDIPS
 	branch = RELEASE_3_23
+[submodule "MEDIPSData"]
+	path = MEDIPSData
+	url = https://github.com/bioc/MEDIPSData
+	branch = RELEASE_3_23
+	type = data
 [submodule "MEDME"]
 	path = MEDME
 	url = https://github.com/bioc/MEDME
 	branch = RELEASE_3_23
+[submodule "MEEBOdata"]
+	path = MEEBOdata
+	url = https://github.com/bioc/MEEBOdata
+	branch = RELEASE_3_23
+	type = data
 [submodule "MEIGOR"]
 	path = MEIGOR
 	url = https://github.com/bioc/MEIGOR
@@ -2534,6 +3168,11 @@
 	path = MMDiff2
 	url = https://github.com/bioc/MMDiff2
 	branch = RELEASE_3_23
+[submodule "MMDiffBamSubset"]
+	path = MMDiffBamSubset
+	url = https://git.bioconductor.org/packages/MMDiffBamSubset
+	branch = RELEASE_3_23
+	type = data
 [submodule "MMUPHin"]
 	path = MMUPHin
 	url = https://github.com/bioc/MMUPHin
@@ -2546,6 +3185,11 @@
 	path = MOFA2
 	url = https://github.com/bioc/MOFA2
 	branch = RELEASE_3_23
+[submodule "MOFAdata"]
+	path = MOFAdata
+	url = https://github.com/bioc/MOFAdata
+	branch = RELEASE_3_23
+	type = data
 [submodule "MOGAMUN"]
 	path = MOGAMUN
 	url = https://github.com/bioc/MOGAMUN
@@ -2578,6 +3222,11 @@
 	path = MSA2dist
 	url = https://github.com/bioc/MSA2dist
 	branch = RELEASE_3_23
+[submodule "MSMB"]
+	path = MSMB
+	url = https://github.com/bioc/MSMB
+	branch = RELEASE_3_23
+	type = data
 [submodule "MSPrep"]
 	path = MSPrep
 	url = https://github.com/bioc/MSPrep
@@ -2638,6 +3287,11 @@
 	path = MSstatsTMT
 	url = https://github.com/bioc/MSstatsTMT
 	branch = RELEASE_3_23
+[submodule "MUGAExampleData"]
+	path = MUGAExampleData
+	url = https://github.com/bioc/MUGAExampleData
+	branch = RELEASE_3_23
+	type = data
 [submodule "MVCClass"]
 	path = MVCClass
 	url = https://github.com/bioc/MVCClass
@@ -2694,6 +3348,11 @@
 	path = Melissa
 	url = https://github.com/bioc/Melissa
 	branch = RELEASE_3_23
+[submodule "MerfishData"]
+	path = MerfishData
+	url = https://github.com/bioc/MerfishData
+	branch = RELEASE_3_23
+	type = data
 [submodule "Mergeomics"]
 	path = Mergeomics
 	url = https://github.com/bioc/Mergeomics
@@ -2726,6 +3385,21 @@
 	path = MetaDICT
 	url = https://github.com/bioc/MetaDICT
 	branch = RELEASE_3_23
+[submodule "MetaGxBreast"]
+	path = MetaGxBreast
+	url = https://github.com/bioc/MetaGxBreast
+	branch = RELEASE_3_23
+	type = data
+[submodule "MetaGxOvarian"]
+	path = MetaGxOvarian
+	url = https://github.com/bioc/MetaGxOvarian
+	branch = RELEASE_3_23
+	type = data
+[submodule "MetaGxPancreas"]
+	path = MetaGxPancreas
+	url = https://github.com/bioc/MetaGxPancreas
+	branch = RELEASE_3_23
+	type = data
 [submodule "MetaNeighbor"]
 	path = MetaNeighbor
 	url = https://github.com/bioc/MetaNeighbor
@@ -2738,6 +3412,11 @@
 	path = MetaProViz
 	url = https://github.com/bioc/MetaProViz
 	branch = RELEASE_3_23
+[submodule "MetaScope"]
+	path = MetaScope
+	url = https://github.com/bioc/MetaScope
+	branch = RELEASE_3_23
+	type = data
 [submodule "MetaboAnnotation"]
 	path = MetaboAnnotation
 	url = https://github.com/bioc/MetaboAnnotation
@@ -2774,6 +3453,11 @@
 	path = MethylAid
 	url = https://github.com/bioc/MethylAid
 	branch = RELEASE_3_23
+[submodule "MethylAidData"]
+	path = MethylAidData
+	url = https://github.com/bioc/MethylAidData
+	branch = RELEASE_3_23
+	type = data
 [submodule "MethylMix"]
 	path = MethylMix
 	url = https://github.com/bioc/MethylMix
@@ -2782,6 +3466,11 @@
 	path = MethylSeekR
 	url = https://github.com/bioc/MethylSeekR
 	branch = RELEASE_3_23
+[submodule "MethylSeqData"]
+	path = MethylSeqData
+	url = https://github.com/bioc/MethylSeqData
+	branch = RELEASE_3_23
+	type = data
 [submodule "Mfuzz"]
 	path = Mfuzz
 	url = https://github.com/bioc/Mfuzz
@@ -2798,6 +3487,11 @@
 	path = MiRaGE
 	url = https://github.com/bioc/MiRaGE
 	branch = RELEASE_3_23
+[submodule "MicrobiomeBenchmarkData"]
+	path = MicrobiomeBenchmarkData
+	url = https://github.com/bioc/MicrobiomeBenchmarkData
+	branch = RELEASE_3_23
+	type = data
 [submodule "MicrobiomeProfiler"]
 	path = MicrobiomeProfiler
 	url = https://github.com/bioc/MicrobiomeProfiler
@@ -2846,10 +3540,25 @@
 	path = MotifPeeker
 	url = https://github.com/bioc/MotifPeeker
 	branch = RELEASE_3_23
+[submodule "MouseAgingData"]
+	path = MouseAgingData
+	url = https://github.com/bioc/MouseAgingData
+	branch = RELEASE_3_23
+	type = data
 [submodule "MouseFM"]
 	path = MouseFM
 	url = https://github.com/bioc/MouseFM
 	branch = RELEASE_3_23
+[submodule "MouseGastrulationData"]
+	path = MouseGastrulationData
+	url = https://github.com/bioc/MouseGastrulationData
+	branch = RELEASE_3_23
+	type = data
+[submodule "MouseThymusAgeing"]
+	path = MouseThymusAgeing
+	url = https://github.com/bioc/MouseThymusAgeing
+	branch = RELEASE_3_23
+	type = data
 [submodule "MsBackendMassbank"]
 	path = MsBackendMassbank
 	url = https://github.com/bioc/MsBackendMassbank
@@ -2934,6 +3643,11 @@
 	path = MutSeqR
 	url = https://github.com/bioc/MutSeqR
 	branch = RELEASE_3_23
+[submodule "MutSeqRData"]
+	path = MutSeqRData
+	url = https://github.com/bioc/MutSeqRData
+	branch = RELEASE_3_23
+	type = data
 [submodule "MutationalPatterns"]
 	path = MutationalPatterns
 	url = https://github.com/bioc/MutationalPatterns
@@ -2950,6 +3664,16 @@
 	path = NCIgraph
 	url = https://github.com/bioc/NCIgraph
 	branch = RELEASE_3_23
+[submodule "NCIgraphData"]
+	path = NCIgraphData
+	url = https://github.com/bioc/NCIgraphData
+	branch = RELEASE_3_23
+	type = data
+[submodule "NGScopyData"]
+	path = NGScopyData
+	url = https://github.com/bioc/NGScopyData
+	branch = RELEASE_3_23
+	type = data
 [submodule "NOISeq"]
 	path = NOISeq
 	url = https://github.com/bioc/NOISeq
@@ -2978,14 +3702,29 @@
 	path = NanoTube
 	url = https://github.com/bioc/NanoTube
 	branch = RELEASE_3_23
+[submodule "NanoporeRNASeq"]
+	path = NanoporeRNASeq
+	url = https://github.com/bioc/NanoporeRNASeq
+	branch = RELEASE_3_23
+	type = data
 [submodule "Nebulosa"]
 	path = Nebulosa
 	url = https://github.com/bioc/Nebulosa
 	branch = RELEASE_3_23
+[submodule "NestLink"]
+	path = NestLink
+	url = https://github.com/bioc/NestLink
+	branch = RELEASE_3_23
+	type = data
 [submodule "NetActivity"]
 	path = NetActivity
 	url = https://github.com/bioc/NetActivity
 	branch = RELEASE_3_23
+[submodule "NetActivityData"]
+	path = NetActivityData
+	url = https://github.com/bioc/NetActivityData
+	branch = RELEASE_3_23
+	type = data
 [submodule "NetPathMiner"]
 	path = NetPathMiner
 	url = https://github.com/bioc/NetPathMiner
@@ -2994,6 +3733,11 @@
 	path = NetSAM
 	url = https://github.com/bioc/NetSAM
 	branch = RELEASE_3_23
+[submodule "Neve2006"]
+	path = Neve2006
+	url = https://github.com/bioc/Neve2006
+	branch = RELEASE_3_23
+	type = data
 [submodule "NewWave"]
 	path = NewWave
 	url = https://github.com/bioc/NewWave
@@ -3014,6 +3758,11 @@
 	path = NuPoP
 	url = https://github.com/bioc/NuPoP
 	branch = RELEASE_3_23
+[submodule "NxtIRFdata"]
+	path = NxtIRFdata
+	url = https://github.com/bioc/NxtIRFdata
+	branch = RELEASE_3_23
+	type = data
 [submodule "OAtools"]
 	path = OAtools
 	url = https://github.com/bioc/OAtools
@@ -3038,6 +3787,11 @@
 	path = OMICsPCA
 	url = https://github.com/bioc/OMICsPCA
 	branch = RELEASE_3_23
+[submodule "OMICsPCAdata"]
+	path = OMICsPCAdata
+	url = https://github.com/bioc/OMICsPCAdata
+	branch = RELEASE_3_23
+	type = data
 [submodule "OPWeight"]
 	path = OPWeight
 	url = https://github.com/bioc/OPWeight
@@ -3070,6 +3824,11 @@
 	path = OVESEG
 	url = https://github.com/bioc/OVESEG
 	branch = RELEASE_3_23
+[submodule "ObMiTi"]
+	path = ObMiTi
+	url = https://github.com/bioc/ObMiTi
+	branch = RELEASE_3_23
+	type = data
 [submodule "OmaDB"]
 	path = OmaDB
 	url = https://github.com/bioc/OmaDB
@@ -3090,6 +3849,11 @@
 	path = OmnipathR
 	url = https://github.com/bioc/OmnipathR
 	branch = RELEASE_3_23
+[submodule "OnassisJavaLibs"]
+	path = OnassisJavaLibs
+	url = https://github.com/bioc/OnassisJavaLibs
+	branch = RELEASE_3_23
+	type = data
 [submodule "OncoScore"]
 	path = OncoScore
 	url = https://github.com/bioc/OncoScore
@@ -3150,6 +3914,11 @@
 	path = PCAtools
 	url = https://github.com/bioc/PCAtools
 	branch = RELEASE_3_23
+[submodule "PCHiCdata"]
+	path = PCHiCdata
+	url = https://github.com/bioc/PCHiCdata
+	branch = RELEASE_3_23
+	type = data
 [submodule "PDATK"]
 	path = PDATK
 	url = https://github.com/bioc/PDATK
@@ -3198,6 +3967,11 @@
 	path = PREDA
 	url = https://github.com/bioc/PREDA
 	branch = RELEASE_3_23
+[submodule "PREDAsampledata"]
+	path = PREDAsampledata
+	url = https://github.com/bioc/PREDAsampledata
+	branch = RELEASE_3_23
+	type = data
 [submodule "PROMISE"]
 	path = PROMISE
 	url = https://github.com/bioc/PROMISE
@@ -3230,10 +4004,30 @@
 	path = PWMEnrich
 	url = https://github.com/bioc/PWMEnrich
 	branch = RELEASE_3_23
+[submodule "PWMEnrich.Dmelanogaster.background"]
+	path = PWMEnrich.Dmelanogaster.background
+	url = https://github.com/bioc/PWMEnrich.Dmelanogaster.background
+	branch = RELEASE_3_23
+	type = data
+[submodule "PWMEnrich.Hsapiens.background"]
+	path = PWMEnrich.Hsapiens.background
+	url = https://github.com/bioc/PWMEnrich.Hsapiens.background
+	branch = RELEASE_3_23
+	type = data
+[submodule "PWMEnrich.Mmusculus.background"]
+	path = PWMEnrich.Mmusculus.background
+	url = https://github.com/bioc/PWMEnrich.Mmusculus.background
+	branch = RELEASE_3_23
+	type = data
 [submodule "PanomiR"]
 	path = PanomiR
 	url = https://github.com/bioc/PanomiR
 	branch = RELEASE_3_23
+[submodule "PasillaTranscriptExpr"]
+	path = PasillaTranscriptExpr
+	url = https://github.com/bioc/PasillaTranscriptExpr
+	branch = RELEASE_3_23
+	type = data
 [submodule "Path2PPI"]
 	path = Path2PPI
 	url = https://github.com/bioc/Path2PPI
@@ -3242,6 +4036,11 @@
 	path = PathNet
 	url = https://github.com/bioc/PathNet
 	branch = RELEASE_3_23
+[submodule "PathNetData"]
+	path = PathNetData
+	url = https://github.com/bioc/PathNetData
+	branch = RELEASE_3_23
+	type = data
 [submodule "PathoStat"]
 	path = PathoStat
 	url = https://github.com/bioc/PathoStat
@@ -3262,6 +4061,11 @@
 	path = PepsNMR
 	url = https://github.com/bioc/PepsNMR
 	branch = RELEASE_3_23
+[submodule "PepsNMRData"]
+	path = PepsNMRData
+	url = https://github.com/bioc/PepsNMRData
+	branch = RELEASE_3_23
+	type = data
 [submodule "PhIPData"]
 	path = PhIPData
 	url = https://github.com/bioc/PhIPData
@@ -3282,6 +4086,11 @@
 	path = PhyloProfile
 	url = https://github.com/bioc/PhyloProfile
 	branch = RELEASE_3_23
+[submodule "PhyloProfileData"]
+	path = PhyloProfileData
+	url = https://github.com/bioc/PhyloProfileData
+	branch = RELEASE_3_23
+	type = data
 [submodule "Pigengene"]
 	path = Pigengene
 	url = https://github.com/bioc/Pigengene
@@ -3310,6 +4119,11 @@
 	path = PrInCE
 	url = https://github.com/bioc/PrInCE
 	branch = RELEASE_3_23
+[submodule "ProData"]
+	path = ProData
+	url = https://github.com/bioc/ProData
+	branch = RELEASE_3_23
+	type = data
 [submodule "Prostar"]
 	path = Prostar
 	url = https://github.com/bioc/Prostar
@@ -3318,6 +4132,11 @@
 	path = ProtGenerics
 	url = https://github.com/bioc/ProtGenerics
 	branch = RELEASE_3_23
+[submodule "ProteinGymR"]
+	path = ProteinGymR
+	url = https://github.com/bioc/ProteinGymR
+	branch = RELEASE_3_23
+	type = data
 [submodule "ProteoDisco"]
 	path = ProteoDisco
 	url = https://github.com/bioc/ProteoDisco
@@ -3326,6 +4145,11 @@
 	path = ProteoMM
 	url = https://github.com/bioc/ProteoMM
 	branch = RELEASE_3_23
+[submodule "PtH2O2lipids"]
+	path = PtH2O2lipids
+	url = https://github.com/bioc/PtH2O2lipids
+	branch = RELEASE_3_23
+	type = data
 [submodule "PureCN"]
 	path = PureCN
 	url = https://github.com/bioc/PureCN
@@ -3338,6 +4162,16 @@
 	path = QDNAseq
 	url = https://github.com/bioc/QDNAseq
 	branch = RELEASE_3_23
+[submodule "QDNAseq.hg19"]
+	path = QDNAseq.hg19
+	url = https://github.com/bioc/QDNAseq.hg19
+	branch = RELEASE_3_23
+	type = data
+[submodule "QDNAseq.mm10"]
+	path = QDNAseq.mm10
+	url = https://github.com/bioc/QDNAseq.mm10
+	branch = RELEASE_3_23
+	type = data
 [submodule "QFeatures"]
 	path = QFeatures
 	url = https://github.com/bioc/QFeatures
@@ -3358,6 +4192,11 @@
 	path = QUBIC
 	url = https://github.com/bioc/QUBIC
 	branch = RELEASE_3_23
+[submodule "QUBICdata"]
+	path = QUBICdata
+	url = https://github.com/bioc/QUBICdata
+	branch = RELEASE_3_23
+	type = data
 [submodule "Qtlizer"]
 	path = Qtlizer
 	url = https://github.com/bioc/Qtlizer
@@ -3474,6 +4313,11 @@
 	path = RITAN
 	url = https://github.com/bioc/RITAN
 	branch = RELEASE_3_23
+[submodule "RITANdata"]
+	path = RITANdata
+	url = https://github.com/bioc/RITANdata
+	branch = RELEASE_3_23
+	type = data
 [submodule "RIVER"]
 	path = RIVER
 	url = https://github.com/bioc/RIVER
@@ -3498,6 +4342,11 @@
 	path = RMassBank
 	url = https://github.com/bioc/RMassBank
 	branch = RELEASE_3_23
+[submodule "RMassBankData"]
+	path = RMassBankData
+	url = https://github.com/bioc/RMassBankData
+	branch = RELEASE_3_23
+	type = data
 [submodule "RNAAgeCalc"]
 	path = RNAAgeCalc
 	url = https://github.com/bioc/RNAAgeCalc
@@ -3518,6 +4367,11 @@
 	path = RNAmodR.AlkAnilineSeq
 	url = https://github.com/bioc/RNAmodR.AlkAnilineSeq
 	branch = RELEASE_3_23
+[submodule "RNAmodR.Data"]
+	path = RNAmodR.Data
+	url = https://github.com/bioc/RNAmodR.Data
+	branch = RELEASE_3_23
+	type = data
 [submodule "RNAmodR.ML"]
 	path = RNAmodR.ML
 	url = https://github.com/bioc/RNAmodR.ML
@@ -3530,10 +4384,19 @@
 	path = RNAsense
 	url = https://github.com/bioc/RNAsense
 	branch = RELEASE_3_23
+[submodule "RNAseq123"]
+	path = RNAseq123
+	url = https://github.com/bioc/RNAseq123
+	branch = RELEASE_3_23
 [submodule "RNAseqCovarImpute"]
 	path = RNAseqCovarImpute
 	url = https://github.com/bioc/RNAseqCovarImpute
 	branch = RELEASE_3_23
+[submodule "RNAseqData.HNRNPC.bam.chr14"]
+	path = RNAseqData.HNRNPC.bam.chr14
+	url = https://github.com/bioc/RNAseqData.HNRNPC.bam.chr14
+	branch = RELEASE_3_23
+	type = data
 [submodule "RNAshapeQC"]
 	path = RNAshapeQC
 	url = https://github.com/bioc/RNAshapeQC
@@ -3566,6 +4429,11 @@
 	path = RProtoBufLib
 	url = https://github.com/bioc/RProtoBufLib
 	branch = RELEASE_3_23
+[submodule "RRBSdata"]
+	path = RRBSdata
+	url = https://github.com/bioc/RRBSdata
+	branch = RELEASE_3_23
+	type = data
 [submodule "RRHO"]
 	path = RRHO
 	url = https://github.com/bioc/RRHO
@@ -3586,6 +4454,51 @@
 	path = RTCGA
 	url = https://github.com/bioc/RTCGA
 	branch = RELEASE_3_23
+[submodule "RTCGA.CNV"]
+	path = RTCGA.CNV
+	url = https://github.com/bioc/RTCGA.CNV
+	branch = RELEASE_3_23
+	type = data
+[submodule "RTCGA.PANCAN12"]
+	path = RTCGA.PANCAN12
+	url = https://github.com/bioc/RTCGA.PANCAN12
+	branch = RELEASE_3_23
+	type = data
+[submodule "RTCGA.RPPA"]
+	path = RTCGA.RPPA
+	url = https://github.com/bioc/RTCGA.RPPA
+	branch = RELEASE_3_23
+	type = data
+[submodule "RTCGA.clinical"]
+	path = RTCGA.clinical
+	url = https://github.com/bioc/RTCGA.clinical
+	branch = RELEASE_3_23
+	type = data
+[submodule "RTCGA.mRNA"]
+	path = RTCGA.mRNA
+	url = https://github.com/bioc/RTCGA.mRNA
+	branch = RELEASE_3_23
+	type = data
+[submodule "RTCGA.methylation"]
+	path = RTCGA.methylation
+	url = https://github.com/bioc/RTCGA.methylation
+	branch = RELEASE_3_23
+	type = data
+[submodule "RTCGA.miRNASeq"]
+	path = RTCGA.miRNASeq
+	url = https://github.com/bioc/RTCGA.miRNASeq
+	branch = RELEASE_3_23
+	type = data
+[submodule "RTCGA.mutations"]
+	path = RTCGA.mutations
+	url = https://github.com/bioc/RTCGA.mutations
+	branch = RELEASE_3_23
+	type = data
+[submodule "RTCGA.rnaseq"]
+	path = RTCGA.rnaseq
+	url = https://github.com/bioc/RTCGA.rnaseq
+	branch = RELEASE_3_23
+	type = data
 [submodule "RTCGAToolbox"]
 	path = RTCGAToolbox
 	url = https://github.com/bioc/RTCGAToolbox
@@ -3622,6 +4535,11 @@
 	path = RUVnormalize
 	url = https://github.com/bioc/RUVnormalize
 	branch = RELEASE_3_23
+[submodule "RUVnormalizeData"]
+	path = RUVnormalizeData
+	url = https://github.com/bioc/RUVnormalizeData
+	branch = RELEASE_3_23
+	type = data
 [submodule "RVS"]
 	path = RVS
 	url = https://github.com/bioc/RVS
@@ -3678,6 +4596,11 @@
 	path = RcisTarget
 	url = https://github.com/bioc/RcisTarget
 	branch = RELEASE_3_23
+[submodule "RcisTarget.hg19.motifDBs.cisbpOnly.500bp"]
+	path = RcisTarget.hg19.motifDBs.cisbpOnly.500bp
+	url = https://github.com/bioc/RcisTarget.hg19.motifDBs.cisbpOnly.500bp
+	branch = RELEASE_3_23
+	type = data
 [submodule "Rcollectl"]
 	path = Rcollectl
 	url = https://github.com/bioc/Rcollectl
@@ -3706,6 +4629,11 @@
 	path = ReactomeGSA
 	url = https://github.com/bioc/ReactomeGSA
 	branch = RELEASE_3_23
+[submodule "ReactomeGSA.data"]
+	path = ReactomeGSA.data
+	url = https://github.com/bioc/ReactomeGSA.data
+	branch = RELEASE_3_23
+	type = data
 [submodule "ReactomePA"]
 	path = ReactomePA
 	url = https://github.com/bioc/ReactomePA
@@ -3730,6 +4658,11 @@
 	path = RegEnrich
 	url = https://github.com/bioc/RegEnrich
 	branch = RELEASE_3_23
+[submodule "RegParallel"]
+	path = RegParallel
+	url = https://github.com/bioc/RegParallel
+	branch = RELEASE_3_23
+	type = data
 [submodule "Rega"]
 	path = Rega
 	url = https://github.com/bioc/Rega
@@ -3754,6 +4687,11 @@
 	path = Rfastp
 	url = https://github.com/bioc/Rfastp
 	branch = RELEASE_3_23
+[submodule "RforProteomics"]
+	path = RforProteomics
+	url = https://github.com/bioc/RforProteomics
+	branch = RELEASE_3_23
+	type = data
 [submodule "RgnTX"]
 	path = RgnTX
 	url = https://github.com/bioc/RgnTX
@@ -3802,10 +4740,44 @@
 	path = RnBeads
 	url = https://github.com/bioc/RnBeads
 	branch = RELEASE_3_23
+[submodule "RnBeads.hg19"]
+	path = RnBeads.hg19
+	url = https://github.com/bioc/RnBeads.hg19
+	branch = RELEASE_3_23
+	type = data
+[submodule "RnBeads.hg38"]
+	path = RnBeads.hg38
+	url = https://github.com/bioc/RnBeads.hg38
+	branch = RELEASE_3_23
+	type = data
+[submodule "RnBeads.mm10"]
+	path = RnBeads.mm10
+	url = https://github.com/bioc/RnBeads.mm10
+	branch = RELEASE_3_23
+	type = data
+[submodule "RnBeads.mm9"]
+	path = RnBeads.mm9
+	url = https://github.com/bioc/RnBeads.mm9
+	branch = RELEASE_3_23
+	type = data
+[submodule "RnBeads.rn5"]
+	path = RnBeads.rn5
+	url = https://github.com/bioc/RnBeads.rn5
+	branch = RELEASE_3_23
+	type = data
+[submodule "RnaSeqGeneEdgeRQL"]
+	path = RnaSeqGeneEdgeRQL
+	url = https://github.com/bioc/RnaSeqGeneEdgeRQL
+	branch = RELEASE_3_23
 [submodule "RnaSeqSampleSize"]
 	path = RnaSeqSampleSize
 	url = https://github.com/bioc/RnaSeqSampleSize
 	branch = RELEASE_3_23
+[submodule "RnaSeqSampleSizeData"]
+	path = RnaSeqSampleSizeData
+	url = https://github.com/bioc/RnaSeqSampleSizeData
+	branch = RELEASE_3_23
+	type = data
 [submodule "Rnits"]
 	path = Rnits
 	url = https://github.com/bioc/Rnits
@@ -3854,6 +4826,11 @@
 	path = SBGNview
 	url = https://github.com/bioc/SBGNview
 	branch = RELEASE_3_23
+[submodule "SBGNview.data"]
+	path = SBGNview.data
+	url = https://github.com/bioc/SBGNview.data
+	branch = RELEASE_3_23
+	type = data
 [submodule "SBMLR"]
 	path = SBMLR
 	url = https://github.com/bioc/SBMLR
@@ -3886,6 +4863,11 @@
 	path = SCFA
 	url = https://github.com/bioc/SCFA
 	branch = RELEASE_3_23
+[submodule "SCLCBam"]
+	path = SCLCBam
+	url = https://github.com/bioc/SCLCBam
+	branch = RELEASE_3_23
+	type = data
 [submodule "SCOPE"]
 	path = SCOPE
 	url = https://github.com/bioc/SCOPE
@@ -3918,6 +4900,11 @@
 	path = SEtools
 	url = https://github.com/bioc/SEtools
 	branch = RELEASE_3_23
+[submodule "SFEData"]
+	path = SFEData
+	url = https://github.com/bioc/SFEData
+	branch = RELEASE_3_23
+	type = data
 [submodule "SGCP"]
 	path = SGCP
 	url = https://github.com/bioc/SGCP
@@ -3966,10 +4953,20 @@
 	path = SMTrackR
 	url = https://github.com/bioc/SMTrackR
 	branch = RELEASE_3_23
+[submodule "SNAData"]
+	path = SNAData
+	url = https://github.com/bioc/SNAData
+	branch = RELEASE_3_23
+	type = data
 [submodule "SNAGEE"]
 	path = SNAGEE
 	url = https://github.com/bioc/SNAGEE
 	branch = RELEASE_3_23
+[submodule "SNAGEEdata"]
+	path = SNAGEEdata
+	url = https://github.com/bioc/SNAGEEdata
+	branch = RELEASE_3_23
+	type = data
 [submodule "SNPRelate"]
 	path = SNPRelate
 	url = https://github.com/bioc/SNPRelate
@@ -3982,6 +4979,11 @@
 	path = SNPhood
 	url = https://github.com/bioc/SNPhood
 	branch = RELEASE_3_23
+[submodule "SNPhoodData"]
+	path = SNPhoodData
+	url = https://github.com/bioc/SNPhoodData
+	branch = RELEASE_3_23
+	type = data
 [submodule "SOMNiBUS"]
 	path = SOMNiBUS
 	url = https://github.com/bioc/SOMNiBUS
@@ -4038,10 +5040,20 @@
 	path = STRINGdb
 	url = https://github.com/bioc/STRINGdb
 	branch = RELEASE_3_23
+[submodule "STexampleData"]
+	path = STexampleData
+	url = https://github.com/bioc/STexampleData
+	branch = RELEASE_3_23
+	type = data
 [submodule "SUITOR"]
 	path = SUITOR
 	url = https://github.com/bioc/SUITOR
 	branch = RELEASE_3_23
+[submodule "SVM2CRMdata"]
+	path = SVM2CRMdata
+	url = https://git.bioconductor.org/packages/SVM2CRMdata
+	branch = RELEASE_3_23
+	type = data
 [submodule "SVMDO"]
 	path = SVMDO
 	url = https://github.com/bioc/SVMDO
@@ -4134,6 +5146,11 @@
 	path = SigsPack
 	url = https://github.com/bioc/SigsPack
 	branch = RELEASE_3_23
+[submodule "SimBenchData"]
+	path = SimBenchData
+	url = https://github.com/bioc/SimBenchData
+	branch = RELEASE_3_23
+	type = data
 [submodule "SimBu"]
 	path = SimBu
 	url = https://github.com/bioc/SimBu
@@ -4142,6 +5159,11 @@
 	path = SimFFPE
 	url = https://github.com/bioc/SimFFPE
 	branch = RELEASE_3_23
+[submodule "Single.mTEC.Transcriptomes"]
+	path = Single.mTEC.Transcriptomes
+	url = https://git.bioconductor.org/packages/Single.mTEC.Transcriptomes
+	branch = RELEASE_3_23
+	type = data
 [submodule "SingleCellAlleleExperiment"]
 	path = SingleCellAlleleExperiment
 	url = https://github.com/bioc/SingleCellAlleleExperiment
@@ -4150,6 +5172,11 @@
 	path = SingleCellExperiment
 	url = https://github.com/bioc/SingleCellExperiment
 	branch = RELEASE_3_23
+[submodule "SingleCellMultiModal"]
+	path = SingleCellMultiModal
+	url = https://github.com/bioc/SingleCellMultiModal
+	branch = RELEASE_3_23
+	type = data
 [submodule "SingleCellSignalR"]
 	path = SingleCellSignalR
 	url = https://github.com/bioc/SingleCellSignalR
@@ -4158,9 +5185,18 @@
 	path = SingleMoleculeFootprinting
 	url = https://github.com/bioc/SingleMoleculeFootprinting
 	branch = RELEASE_3_23
+[submodule "SingleMoleculeFootprintingData"]
+	path = SingleMoleculeFootprintingData
+	url = https://github.com/bioc/SingleMoleculeFootprintingData
+	branch = RELEASE_3_23
+	type = data
 [submodule "SingleR"]
 	path = SingleR
 	url = https://github.com/bioc/SingleR
+	branch = RELEASE_3_23
+[submodule "SingscoreAMLMutations"]
+	path = SingscoreAMLMutations
+	url = https://github.com/bioc/SingscoreAMLMutations
 	branch = RELEASE_3_23
 [submodule "Site2Target"]
 	path = Site2Target
@@ -4170,6 +5206,16 @@
 	path = SmartPhos
 	url = https://github.com/bioc/SmartPhos
 	branch = RELEASE_3_23
+[submodule "SomatiCAData"]
+	path = SomatiCAData
+	url = https://github.com/bioc/SomatiCAData
+	branch = RELEASE_3_23
+	type = data
+[submodule "SomaticCancerAlterations"]
+	path = SomaticCancerAlterations
+	url = https://github.com/bioc/SomaticCancerAlterations
+	branch = RELEASE_3_23
+	type = data
 [submodule "SomaticSignatures"]
 	path = SomaticSignatures
 	url = https://github.com/bioc/SomaticSignatures
@@ -4210,6 +5256,11 @@
 	path = SpatialCPie
 	url = https://github.com/bioc/SpatialCPie
 	branch = RELEASE_3_23
+[submodule "SpatialDatasets"]
+	path = SpatialDatasets
+	url = https://github.com/bioc/SpatialDatasets
+	branch = RELEASE_3_23
+	type = data
 [submodule "SpatialDecon"]
 	path = SpatialDecon
 	url = https://github.com/bioc/SpatialDecon
@@ -4254,6 +5305,16 @@
 	path = SpiecEasi
 	url = https://github.com/bioc/SpiecEasi
 	branch = RELEASE_3_23
+[submodule "SpikeIn"]
+	path = SpikeIn
+	url = https://github.com/bioc/SpikeIn
+	branch = RELEASE_3_23
+	type = data
+[submodule "SpikeInSubset"]
+	path = SpikeInSubset
+	url = https://github.com/bioc/SpikeInSubset
+	branch = RELEASE_3_23
+	type = data
 [submodule "SpliceImpactR"]
 	path = SpliceImpactR
 	url = https://github.com/bioc/SpliceImpactR
@@ -4306,6 +5367,11 @@
 	path = SubCellBarCode
 	url = https://github.com/bioc/SubCellBarCode
 	branch = RELEASE_3_23
+[submodule "SubcellularSpatialData"]
+	path = SubcellularSpatialData
+	url = https://github.com/bioc/SubcellularSpatialData
+	branch = RELEASE_3_23
+	type = data
 [submodule "SummarizedExperiment"]
 	path = SummarizedExperiment
 	url = https://github.com/bioc/SummarizedExperiment
@@ -4346,14 +5412,48 @@
 	path = TBSignatureProfiler
 	url = https://github.com/bioc/TBSignatureProfiler
 	branch = RELEASE_3_23
+[submodule "TBX20BamSubset"]
+	path = TBX20BamSubset
+	url = https://github.com/bioc/TBX20BamSubset
+	branch = RELEASE_3_23
+	type = data
 [submodule "TCC"]
 	path = TCC
 	url = https://github.com/bioc/TCC
 	branch = RELEASE_3_23
+[submodule "TCGAMethylation450k"]
+	path = TCGAMethylation450k
+	url = https://github.com/bioc/TCGAMethylation450k
+	branch = RELEASE_3_23
+	type = data
+[submodule "TCGAWorkflow"]
+	path = TCGAWorkflow
+	url = https://github.com/bioc/TCGAWorkflow
+	branch = RELEASE_3_23
+[submodule "TCGAWorkflowData"]
+	path = TCGAWorkflowData
+	url = https://github.com/bioc/TCGAWorkflowData
+	branch = RELEASE_3_23
+	type = data
 [submodule "TCGAbiolinks"]
 	path = TCGAbiolinks
 	url = https://github.com/bioc/TCGAbiolinks
 	branch = RELEASE_3_23
+[submodule "TCGAbiolinksGUI.data"]
+	path = TCGAbiolinksGUI.data
+	url = https://github.com/bioc/TCGAbiolinksGUI.data
+	branch = RELEASE_3_23
+	type = data
+[submodule "TCGAcrcmRNA"]
+	path = TCGAcrcmRNA
+	url = https://github.com/bioc/TCGAcrcmRNA
+	branch = RELEASE_3_23
+	type = data
+[submodule "TCGAcrcmiRNA"]
+	path = TCGAcrcmiRNA
+	url = https://github.com/bioc/TCGAcrcmiRNA
+	branch = RELEASE_3_23
+	type = data
 [submodule "TCGAutils"]
 	path = TCGAutils
 	url = https://github.com/bioc/TCGAutils
@@ -4378,10 +5478,40 @@
 	path = TENET
 	url = https://github.com/bioc/TENET
 	branch = RELEASE_3_23
+[submodule "TENET.ExperimentHub"]
+	path = TENET.ExperimentHub
+	url = https://github.com/bioc/TENET.ExperimentHub
+	branch = RELEASE_3_23
+	type = data
+[submodule "TENxBUSData"]
+	path = TENxBUSData
+	url = https://github.com/bioc/TENxBUSData
+	branch = RELEASE_3_23
+	type = data
+[submodule "TENxBrainData"]
+	path = TENxBrainData
+	url = https://github.com/bioc/TENxBrainData
+	branch = RELEASE_3_23
+	type = data
 [submodule "TENxIO"]
 	path = TENxIO
 	url = https://github.com/bioc/TENxIO
 	branch = RELEASE_3_23
+[submodule "TENxPBMCData"]
+	path = TENxPBMCData
+	url = https://github.com/bioc/TENxPBMCData
+	branch = RELEASE_3_23
+	type = data
+[submodule "TENxVisiumData"]
+	path = TENxVisiumData
+	url = https://github.com/bioc/TENxVisiumData
+	branch = RELEASE_3_23
+	type = data
+[submodule "TENxXeniumData"]
+	path = TENxXeniumData
+	url = https://github.com/bioc/TENxXeniumData
+	branch = RELEASE_3_23
+	type = data
 [submodule "TEQC"]
 	path = TEQC
 	url = https://github.com/bioc/TEQC
@@ -4410,6 +5540,11 @@
 	path = TIN
 	url = https://github.com/bioc/TIN
 	branch = RELEASE_3_23
+[submodule "TMExplorer"]
+	path = TMExplorer
+	url = https://github.com/bioc/TMExplorer
+	branch = RELEASE_3_23
+	type = data
 [submodule "TMSig"]
 	path = TMSig
 	url = https://github.com/bioc/TMSig
@@ -4462,6 +5597,16 @@
 	path = TVTB
 	url = https://github.com/bioc/TVTB
 	branch = RELEASE_3_23
+[submodule "TabulaMurisData"]
+	path = TabulaMurisData
+	url = https://github.com/bioc/TabulaMurisData
+	branch = RELEASE_3_23
+	type = data
+[submodule "TabulaMurisSenisData"]
+	path = TabulaMurisSenisData
+	url = https://github.com/bioc/TabulaMurisSenisData
+	branch = RELEASE_3_23
+	type = data
 [submodule "TargetDecoy"]
 	path = TargetDecoy
 	url = https://github.com/bioc/TargetDecoy
@@ -4470,10 +5615,20 @@
 	path = TargetScore
 	url = https://github.com/bioc/TargetScore
 	branch = RELEASE_3_23
+[submodule "TargetScoreData"]
+	path = TargetScoreData
+	url = https://github.com/bioc/TargetScoreData
+	branch = RELEASE_3_23
+	type = data
 [submodule "TargetSearch"]
 	path = TargetSearch
 	url = https://github.com/bioc/TargetSearch
 	branch = RELEASE_3_23
+[submodule "TargetSearchData"]
+	path = TargetSearchData
+	url = https://github.com/bioc/TargetSearchData
+	branch = RELEASE_3_23
+	type = data
 [submodule "TaxSEA"]
 	path = TaxSEA
 	url = https://github.com/bioc/TaxSEA
@@ -4482,6 +5637,11 @@
 	path = TileDBArray
 	url = https://github.com/bioc/TileDBArray
 	branch = RELEASE_3_23
+[submodule "TimerQuant"]
+	path = TimerQuant
+	url = https://github.com/bioc/TimerQuant
+	branch = RELEASE_3_23
+	type = data
 [submodule "TissueEnrich"]
 	path = TissueEnrich
 	url = https://github.com/bioc/TissueEnrich
@@ -4506,6 +5666,11 @@
 	path = TrajectoryUtils
 	url = https://github.com/bioc/TrajectoryUtils
 	branch = RELEASE_3_23
+[submodule "TransOmicsData"]
+	path = TransOmicsData
+	url = https://github.com/bioc/TransOmicsData
+	branch = RELEASE_3_23
+	type = data
 [submodule "TreeAndLeaf"]
 	path = TreeAndLeaf
 	url = https://github.com/bioc/TreeAndLeaf
@@ -4518,6 +5683,11 @@
 	path = Trendy
 	url = https://github.com/bioc/Trendy
 	branch = RELEASE_3_23
+[submodule "TumourMethData"]
+	path = TumourMethData
+	url = https://github.com/bioc/TumourMethData
+	branch = RELEASE_3_23
+	type = data
 [submodule "TurboNorm"]
 	path = TurboNorm
 	url = https://github.com/bioc/TurboNorm
@@ -4602,6 +5772,16 @@
 	path = VariantTools
 	url = https://github.com/bioc/VariantTools
 	branch = RELEASE_3_23
+[submodule "VariantToolsData"]
+	path = VariantToolsData
+	url = https://github.com/bioc/VariantToolsData
+	branch = RELEASE_3_23
+	type = data
+[submodule "VectraPolarisData"]
+	path = VectraPolarisData
+	url = https://github.com/bioc/VectraPolarisData
+	branch = RELEASE_3_23
+	type = data
 [submodule "VegaMC"]
 	path = VegaMC
 	url = https://github.com/bioc/VegaMC
@@ -4626,6 +5806,21 @@
 	path = VplotR
 	url = https://github.com/bioc/VplotR
 	branch = RELEASE_3_23
+[submodule "WES.1KG.WUGSC"]
+	path = WES.1KG.WUGSC
+	url = https://github.com/bioc/WES.1KG.WUGSC
+	branch = RELEASE_3_23
+	type = data
+[submodule "WGSmapp"]
+	path = WGSmapp
+	url = https://github.com/bioc/WGSmapp
+	branch = RELEASE_3_23
+	type = data
+[submodule "WeberDivechaLCdata"]
+	path = WeberDivechaLCdata
+	url = https://github.com/bioc/WeberDivechaLCdata
+	branch = RELEASE_3_23
+	type = data
 [submodule "Wrench"]
 	path = Wrench
 	url = https://github.com/bioc/Wrench
@@ -4654,6 +5849,11 @@
 	path = Xeva
 	url = https://github.com/bioc/Xeva
 	branch = RELEASE_3_23
+[submodule "XhybCasneuf"]
+	path = XhybCasneuf
+	url = https://github.com/bioc/XhybCasneuf
+	branch = RELEASE_3_23
+	type = data
 [submodule "YAPSA"]
 	path = YAPSA
 	url = https://github.com/bioc/YAPSA
@@ -4706,6 +5906,11 @@
 	path = adSplit
 	url = https://github.com/bioc/adSplit
 	branch = RELEASE_3_23
+[submodule "adductData"]
+	path = adductData
+	url = https://github.com/bioc/adductData
+	branch = RELEASE_3_23
+	type = data
 [submodule "adductomicsR"]
 	path = adductomicsR
 	url = https://github.com/bioc/adductomicsR
@@ -4738,10 +5943,20 @@
 	path = affycomp
 	url = https://github.com/bioc/affycomp
 	branch = RELEASE_3_23
+[submodule "affycompData"]
+	path = affycompData
+	url = https://github.com/bioc/affycompData
+	branch = RELEASE_3_23
+	type = data
 [submodule "affycoretools"]
 	path = affycoretools
 	url = https://github.com/bioc/affycoretools
 	branch = RELEASE_3_23
+[submodule "affydata"]
+	path = affydata
+	url = https://github.com/bioc/affydata
+	branch = RELEASE_3_23
+	type = data
 [submodule "affyio"]
 	path = affyio
 	url = https://github.com/bioc/affyio
@@ -4762,6 +5977,11 @@
 	path = airpart
 	url = https://github.com/bioc/airpart
 	branch = RELEASE_3_23
+[submodule "airway"]
+	path = airway
+	url = https://github.com/bioc/airway
+	branch = RELEASE_3_23
+	type = data
 [submodule "alabaster"]
 	path = alabaster
 	url = https://github.com/bioc/alabaster
@@ -4862,6 +6082,10 @@
 	path = annotate
 	url = https://github.com/bioc/annotate
 	branch = RELEASE_3_23
+[submodule "annotation"]
+	path = annotation
+	url = https://github.com/bioc/annotation
+	branch = RELEASE_3_23
 [submodule "annotationTools"]
 	path = annotationTools
 	url = https://github.com/bioc/annotationTools
@@ -4882,6 +6106,11 @@
 	path = antiProfiles
 	url = https://github.com/bioc/antiProfiles
 	branch = RELEASE_3_23
+[submodule "antiProfilesData"]
+	path = antiProfilesData
+	url = https://github.com/bioc/antiProfilesData
+	branch = RELEASE_3_23
+	type = data
 [submodule "apComplex"]
 	path = apComplex
 	url = https://github.com/bioc/apComplex
@@ -4894,6 +6123,11 @@
 	path = appreci8R
 	url = https://github.com/bioc/appreci8R
 	branch = RELEASE_3_23
+[submodule "aracne.networks"]
+	path = aracne.networks
+	url = https://github.com/bioc/aracne.networks
+	branch = RELEASE_3_23
+	type = data
 [submodule "aroma.light"]
 	path = aroma.light
 	url = https://github.com/bioc/aroma.light
@@ -4909,6 +6143,10 @@
 [submodule "arrayQualityMetrics"]
 	path = arrayQualityMetrics
 	url = https://github.com/bioc/arrayQualityMetrics
+	branch = RELEASE_3_23
+[submodule "arrays"]
+	path = arrays
+	url = https://github.com/bioc/arrays
 	branch = RELEASE_3_23
 [submodule "artMS"]
 	path = artMS
@@ -5010,6 +6248,11 @@
 	path = bcSeq
 	url = https://github.com/bioc/bcSeq
 	branch = RELEASE_3_23
+[submodule "bcellViper"]
+	path = bcellViper
+	url = https://github.com/bioc/bcellViper
+	branch = RELEASE_3_23
+	type = data
 [submodule "beachmat"]
 	path = beachmat
 	url = https://github.com/bioc/beachmat
@@ -5026,6 +6269,11 @@
 	path = beadarray
 	url = https://github.com/bioc/beadarray
 	branch = RELEASE_3_23
+[submodule "beadarrayExampleData"]
+	path = beadarrayExampleData
+	url = https://github.com/bioc/beadarrayExampleData
+	branch = RELEASE_3_23
+	type = data
 [submodule "bedbaser"]
 	path = bedbaser
 	url = https://github.com/bioc/bedbaser
@@ -5038,6 +6286,11 @@
 	path = benchdamic
 	url = https://github.com/bioc/benchdamic
 	branch = RELEASE_3_23
+[submodule "beta7"]
+	path = beta7
+	url = https://github.com/bioc/beta7
+	branch = RELEASE_3_23
+	type = data
 [submodule "betaHMM"]
 	path = betaHMM
 	url = https://github.com/bioc/betaHMM
@@ -5122,6 +6375,11 @@
 	path = biotmle
 	url = https://github.com/bioc/biotmle
 	branch = RELEASE_3_23
+[submodule "biotmleData"]
+	path = biotmleData
+	url = https://github.com/bioc/biotmleData
+	branch = RELEASE_3_23
+	type = data
 [submodule "biovizBase"]
 	path = biovizBase
 	url = https://github.com/bioc/biovizBase
@@ -5130,10 +6388,20 @@
 	path = biscuiteer
 	url = https://github.com/bioc/biscuiteer
 	branch = RELEASE_3_23
+[submodule "biscuiteerData"]
+	path = biscuiteerData
+	url = https://github.com/bioc/biscuiteerData
+	branch = RELEASE_3_23
+	type = data
 [submodule "blacksheepr"]
 	path = blacksheepr
 	url = https://github.com/bioc/blacksheepr
 	branch = RELEASE_3_23
+[submodule "bladderbatch"]
+	path = bladderbatch
+	url = https://github.com/bioc/bladderbatch
+	branch = RELEASE_3_23
+	type = data
 [submodule "blase"]
 	path = blase
 	url = https://github.com/bioc/blase
@@ -5142,6 +6410,11 @@
 	path = blima
 	url = https://github.com/bioc/blima
 	branch = RELEASE_3_23
+[submodule "blimaTestingData"]
+	path = blimaTestingData
+	url = https://github.com/bioc/blimaTestingData
+	branch = RELEASE_3_23
+	type = data
 [submodule "bluster"]
 	path = bluster
 	url = https://github.com/bioc/bluster
@@ -5154,6 +6427,11 @@
 	path = bnem
 	url = https://github.com/bioc/bnem
 	branch = RELEASE_3_23
+[submodule "bodymapRat"]
+	path = bodymapRat
+	url = https://github.com/bioc/bodymapRat
+	branch = RELEASE_3_23
+	type = data
 [submodule "borealis"]
 	path = borealis
 	url = https://github.com/bioc/borealis
@@ -5166,18 +6444,73 @@
 	path = breakpointR
 	url = https://github.com/bioc/breakpointR
 	branch = RELEASE_3_23
+[submodule "breakpointRdata"]
+	path = breakpointRdata
+	url = https://github.com/bioc/breakpointRdata
+	branch = RELEASE_3_23
+	type = data
+[submodule "breastCancerMAINZ"]
+	path = breastCancerMAINZ
+	url = https://github.com/bioc/breastCancerMAINZ
+	branch = RELEASE_3_23
+	type = data
+[submodule "breastCancerNKI"]
+	path = breastCancerNKI
+	url = https://github.com/bioc/breastCancerNKI
+	branch = RELEASE_3_23
+	type = data
+[submodule "breastCancerTRANSBIG"]
+	path = breastCancerTRANSBIG
+	url = https://github.com/bioc/breastCancerTRANSBIG
+	branch = RELEASE_3_23
+	type = data
+[submodule "breastCancerUNT"]
+	path = breastCancerUNT
+	url = https://github.com/bioc/breastCancerUNT
+	branch = RELEASE_3_23
+	type = data
+[submodule "breastCancerUPP"]
+	path = breastCancerUPP
+	url = https://github.com/bioc/breastCancerUPP
+	branch = RELEASE_3_23
+	type = data
+[submodule "breastCancerVDX"]
+	path = breastCancerVDX
+	url = https://github.com/bioc/breastCancerVDX
+	branch = RELEASE_3_23
+	type = data
 [submodule "brendaDb"]
 	path = brendaDb
 	url = https://github.com/bioc/brendaDb
 	branch = RELEASE_3_23
+[submodule "brgedata"]
+	path = brgedata
+	url = https://github.com/bioc/brgedata
+	branch = RELEASE_3_23
+	type = data
 [submodule "broadSeq"]
 	path = broadSeq
 	url = https://github.com/bioc/broadSeq
 	branch = RELEASE_3_23
+[submodule "bronchialIL13"]
+	path = bronchialIL13
+	url = https://github.com/bioc/bronchialIL13
+	branch = RELEASE_3_23
+	type = data
 [submodule "bsseq"]
 	path = bsseq
 	url = https://github.com/bioc/bsseq
 	branch = RELEASE_3_23
+[submodule "bsseqData"]
+	path = bsseqData
+	url = https://github.com/bioc/bsseqData
+	branch = RELEASE_3_23
+	type = data
+[submodule "bugphyzz"]
+	path = bugphyzz
+	url = https://github.com/bioc/bugphyzz
+	branch = RELEASE_3_23
+	type = data
 [submodule "bugsigdbr"]
 	path = bugsigdbr
 	url = https://github.com/bioc/bugsigdbr
@@ -5190,6 +6523,11 @@
 	path = cBioPortalData
 	url = https://github.com/bioc/cBioPortalData
 	branch = RELEASE_3_23
+[submodule "cMap2data"]
+	path = cMap2data
+	url = https://github.com/bioc/cMap2data
+	branch = RELEASE_3_23
+	type = data
 [submodule "cTRAP"]
 	path = cTRAP
 	url = https://github.com/bioc/cTRAP
@@ -5210,6 +6548,11 @@
 	path = cancerclass
 	url = https://github.com/bioc/cancerclass
 	branch = RELEASE_3_23
+[submodule "cancerdata"]
+	path = cancerdata
+	url = https://github.com/bioc/cancerdata
+	branch = RELEASE_3_23
+	type = data
 [submodule "cardelino"]
 	path = cardelino
 	url = https://github.com/bioc/cardelino
@@ -5238,6 +6581,11 @@
 	path = ccImpute
 	url = https://github.com/bioc/ccImpute
 	branch = RELEASE_3_23
+[submodule "ccdata"]
+	path = ccdata
+	url = https://git.bioconductor.org/packages/ccdata
+	branch = RELEASE_3_23
+	type = data
 [submodule "ccfindR"]
 	path = ccfindR
 	url = https://github.com/bioc/ccfindR
@@ -5254,6 +6602,11 @@
 	path = celaref
 	url = https://github.com/bioc/celaref
 	branch = RELEASE_3_23
+[submodule "celarefData"]
+	path = celarefData
+	url = https://github.com/bioc/celarefData
+	branch = RELEASE_3_23
+	type = data
 [submodule "celda"]
 	path = celda
 	url = https://github.com/bioc/celda
@@ -5262,6 +6615,11 @@
 	path = cellbaseR
 	url = https://github.com/bioc/cellbaseR
 	branch = RELEASE_3_23
+[submodule "celldex"]
+	path = celldex
+	url = https://github.com/bioc/celldex
+	branch = RELEASE_3_23
+	type = data
 [submodule "cellity"]
 	path = cellity
 	url = https://github.com/bioc/cellity
@@ -5294,6 +6652,11 @@
 	path = cfTools
 	url = https://github.com/bioc/cfTools
 	branch = RELEASE_3_23
+[submodule "cfToolsData"]
+	path = cfToolsData
+	url = https://github.com/bioc/cfToolsData
+	branch = RELEASE_3_23
+	type = data
 [submodule "cfdnakit"]
 	path = cfdnakit
 	url = https://github.com/bioc/cfdnakit
@@ -5326,10 +6689,24 @@
 	path = chipenrich
 	url = https://github.com/bioc/chipenrich
 	branch = RELEASE_3_23
+[submodule "chipenrich.data"]
+	path = chipenrich.data
+	url = https://github.com/bioc/chipenrich.data
+	branch = RELEASE_3_23
+	type = data
 [submodule "chipseq"]
 	path = chipseq
 	url = https://github.com/bioc/chipseq
 	branch = RELEASE_3_23
+[submodule "chipseqDB"]
+	path = chipseqDB
+	url = https://github.com/bioc/chipseqDB
+	branch = RELEASE_3_23
+[submodule "chipseqDBData"]
+	path = chipseqDBData
+	url = https://github.com/bioc/chipseqDBData
+	branch = RELEASE_3_23
+	type = data
 [submodule "chopsticks"]
 	path = chopsticks
 	url = https://github.com/bioc/chopsticks
@@ -5422,6 +6799,11 @@
 	path = clustifyr
 	url = https://github.com/bioc/clustifyr
 	branch = RELEASE_3_23
+[submodule "clustifyrdatahub"]
+	path = clustifyrdatahub
+	url = https://github.com/bioc/clustifyrdatahub
+	branch = RELEASE_3_23
+	type = data
 [submodule "cmapR"]
 	path = cmapR
 	url = https://github.com/bioc/cmapR
@@ -5438,6 +6820,11 @@
 	path = cnvGSA
 	url = https://github.com/bioc/cnvGSA
 	branch = RELEASE_3_23
+[submodule "cnvGSAdata"]
+	path = cnvGSAdata
+	url = https://github.com/bioc/cnvGSAdata
+	branch = RELEASE_3_23
+	type = data
 [submodule "coGPS"]
 	path = coGPS
 	url = https://github.com/bioc/coGPS
@@ -5466,6 +6853,11 @@
 	path = cola
 	url = https://github.com/bioc/cola
 	branch = RELEASE_3_23
+[submodule "colonCA"]
+	path = colonCA
+	url = https://github.com/bioc/colonCA
+	branch = RELEASE_3_23
+	type = data
 [submodule "comapr"]
 	path = comapr
 	url = https://github.com/bioc/comapr
@@ -5582,6 +6974,11 @@
 	path = crisprScore
 	url = https://github.com/bioc/crisprScore
 	branch = RELEASE_3_23
+[submodule "crisprScoreData"]
+	path = crisprScoreData
+	url = https://github.com/bioc/crisprScoreData
+	branch = RELEASE_3_23
+	type = data
 [submodule "crisprShiny"]
 	path = crisprShiny
 	url = https://github.com/bioc/crisprShiny
@@ -5610,6 +7007,10 @@
 	path = csaw
 	url = https://github.com/bioc/csaw
 	branch = RELEASE_3_23
+[submodule "csawUsersGuide"]
+	path = csawUsersGuide
+	url = https://github.com/bioc/csawUsersGuide
+	branch = RELEASE_3_23
 [submodule "csdR"]
 	path = csdR
 	url = https://github.com/bioc/csdR
@@ -5626,6 +7027,61 @@
 	path = cummeRbund
 	url = https://github.com/bioc/cummeRbund
 	branch = RELEASE_3_23
+[submodule "curatedAdipoArray"]
+	path = curatedAdipoArray
+	url = https://github.com/bioc/curatedAdipoArray
+	branch = RELEASE_3_23
+	type = data
+[submodule "curatedAdipoChIP"]
+	path = curatedAdipoChIP
+	url = https://github.com/bioc/curatedAdipoChIP
+	branch = RELEASE_3_23
+	type = data
+[submodule "curatedAdipoRNA"]
+	path = curatedAdipoRNA
+	url = https://github.com/bioc/curatedAdipoRNA
+	branch = RELEASE_3_23
+	type = data
+[submodule "curatedBladderData"]
+	path = curatedBladderData
+	url = https://github.com/bioc/curatedBladderData
+	branch = RELEASE_3_23
+	type = data
+[submodule "curatedBreastData"]
+	path = curatedBreastData
+	url = https://github.com/bioc/curatedBreastData
+	branch = RELEASE_3_23
+	type = data
+[submodule "curatedCRCData"]
+	path = curatedCRCData
+	url = https://github.com/bioc/curatedCRCData
+	branch = RELEASE_3_23
+	type = data
+[submodule "curatedMetagenomicData"]
+	path = curatedMetagenomicData
+	url = https://github.com/bioc/curatedMetagenomicData
+	branch = RELEASE_3_23
+	type = data
+[submodule "curatedOvarianData"]
+	path = curatedOvarianData
+	url = https://github.com/bioc/curatedOvarianData
+	branch = RELEASE_3_23
+	type = data
+[submodule "curatedPCaData"]
+	path = curatedPCaData
+	url = https://github.com/bioc/curatedPCaData
+	branch = RELEASE_3_23
+	type = data
+[submodule "curatedTBData"]
+	path = curatedTBData
+	url = https://github.com/bioc/curatedTBData
+	branch = RELEASE_3_23
+	type = data
+[submodule "curatedTCGAData"]
+	path = curatedTCGAData
+	url = https://github.com/bioc/curatedTCGAData
+	branch = RELEASE_3_23
+	type = data
 [submodule "customCMPdb"]
 	path = customCMPdb
 	url = https://github.com/bioc/customCMPdb
@@ -5661,6 +7117,10 @@
 [submodule "cytofQC"]
 	path = cytofQC
 	url = https://github.com/bioc/cytofQC
+	branch = RELEASE_3_23
+[submodule "cytofWorkflow"]
+	path = cytofWorkflow
+	url = https://github.com/bioc/cytofWorkflow
 	branch = RELEASE_3_23
 [submodule "cytolib"]
 	path = cytolib
@@ -5702,6 +7162,11 @@
 	path = dar
 	url = https://github.com/bioc/dar
 	branch = RELEASE_3_23
+[submodule "davidTiling"]
+	path = davidTiling
+	url = https://github.com/bioc/davidTiling
+	branch = RELEASE_3_23
+	type = data
 [submodule "dcGSA"]
 	path = dcGSA
 	url = https://github.com/bioc/dcGSA
@@ -5778,10 +7243,20 @@
 	path = densvis
 	url = https://github.com/bioc/densvis
 	branch = RELEASE_3_23
+[submodule "depmap"]
+	path = depmap
+	url = https://github.com/bioc/depmap
+	branch = RELEASE_3_23
+	type = data
 [submodule "derfinder"]
 	path = derfinder
 	url = https://github.com/bioc/derfinder
 	branch = RELEASE_3_23
+[submodule "derfinderData"]
+	path = derfinderData
+	url = https://github.com/bioc/derfinderData
+	branch = RELEASE_3_23
+	type = data
 [submodule "derfinderHelper"]
 	path = derfinderHelper
 	url = https://github.com/bioc/derfinderHelper
@@ -5814,6 +7289,11 @@
 	path = diffcyt
 	url = https://github.com/bioc/diffcyt
 	branch = RELEASE_3_23
+[submodule "diffloopdata"]
+	path = diffloopdata
+	url = https://github.com/bioc/diffloopdata
+	branch = RELEASE_3_23
+	type = data
 [submodule "diffuStats"]
 	path = diffuStats
 	url = https://github.com/bioc/diffuStats
@@ -5822,6 +7302,11 @@
 	path = diggit
 	url = https://github.com/bioc/diggit
 	branch = RELEASE_3_23
+[submodule "diggitdata"]
+	path = diggitdata
+	url = https://github.com/bioc/diggitdata
+	branch = RELEASE_3_23
+	type = data
 [submodule "dinoR"]
 	path = dinoR
 	url = https://github.com/bioc/dinoR
@@ -5862,6 +7347,11 @@
 	path = dominatR
 	url = https://github.com/bioc/dominatR
 	branch = RELEASE_3_23
+[submodule "dominatRData"]
+	path = dominatRData
+	url = https://github.com/bioc/dominatRData
+	branch = RELEASE_3_23
+	type = data
 [submodule "dominoSignal"]
 	path = dominoSignal
 	url = https://github.com/bioc/dominoSignal
@@ -5870,6 +7360,11 @@
 	path = doppelgangR
 	url = https://github.com/bioc/doppelgangR
 	branch = RELEASE_3_23
+[submodule "dorothea"]
+	path = dorothea
+	url = https://github.com/bioc/dorothea
+	branch = RELEASE_3_23
+	type = data
 [submodule "doseR"]
 	path = doseR
 	url = https://github.com/bioc/doseR
@@ -5886,6 +7381,11 @@
 	path = dreamlet
 	url = https://github.com/bioc/dreamlet
 	branch = RELEASE_3_23
+[submodule "dressCheck"]
+	path = dressCheck
+	url = https://github.com/bioc/dressCheck
+	branch = RELEASE_3_23
+	type = data
 [submodule "drugTargetInteractions"]
 	path = drugTargetInteractions
 	url = https://github.com/bioc/drugTargetInteractions
@@ -5902,10 +7402,20 @@
 	path = dyebias
 	url = https://github.com/bioc/dyebias
 	branch = RELEASE_3_23
+[submodule "dyebiasexamples"]
+	path = dyebiasexamples
+	url = https://github.com/bioc/dyebiasexamples
+	branch = RELEASE_3_23
+	type = data
 [submodule "easier"]
 	path = easier
 	url = https://github.com/bioc/easier
 	branch = RELEASE_3_23
+[submodule "easierData"]
+	path = easierData
+	url = https://github.com/bioc/easierData
+	branch = RELEASE_3_23
+	type = data
 [submodule "easyRNASeq"]
 	path = easyRNASeq
 	url = https://github.com/bioc/easyRNASeq
@@ -5918,6 +7428,11 @@
 	path = easyreporting
 	url = https://github.com/bioc/easyreporting
 	branch = RELEASE_3_23
+[submodule "ecoliLeucine"]
+	path = ecoliLeucine
+	url = https://github.com/bioc/ecoliLeucine
+	branch = RELEASE_3_23
+	type = data
 [submodule "ecolitk"]
 	path = ecolitk
 	url = https://github.com/bioc/ecolitk
@@ -5942,6 +7457,11 @@
 	path = eisaR
 	url = https://github.com/bioc/eisaR
 	branch = RELEASE_3_23
+[submodule "emtdata"]
+	path = emtdata
+	url = https://github.com/bioc/emtdata
+	branch = RELEASE_3_23
+	type = data
 [submodule "enhancerHomologSearch"]
 	path = enhancerHomologSearch
 	url = https://github.com/bioc/enhancerHomologSearch
@@ -5958,6 +7478,11 @@
 	path = ensembldb
 	url = https://github.com/bioc/ensembldb
 	branch = RELEASE_3_23
+[submodule "eoPredData"]
+	path = eoPredData
+	url = https://github.com/bioc/eoPredData
+	branch = RELEASE_3_23
+	type = data
 [submodule "epiNEM"]
 	path = epiNEM
 	url = https://github.com/bioc/epiNEM
@@ -5990,6 +7515,11 @@
 	path = epimutacions
 	url = https://github.com/bioc/epimutacions
 	branch = RELEASE_3_23
+[submodule "epimutacionsData"]
+	path = epimutacionsData
+	url = https://github.com/bioc/epimutacionsData
+	branch = RELEASE_3_23
+	type = data
 [submodule "epiregulon"]
 	path = epiregulon
 	url = https://github.com/bioc/epiregulon
@@ -6046,6 +7576,16 @@
 	path = esetVis
 	url = https://github.com/bioc/esetVis
 	branch = RELEASE_3_23
+[submodule "estrogen"]
+	path = estrogen
+	url = https://github.com/bioc/estrogen
+	branch = RELEASE_3_23
+	type = data
+[submodule "etec16s"]
+	path = etec16s
+	url = https://github.com/bioc/etec16s
+	branch = RELEASE_3_23
+	type = data
 [submodule "eudysbiome"]
 	path = eudysbiome
 	url = https://github.com/bioc/eudysbiome
@@ -6054,6 +7594,11 @@
 	path = evaluomeR
 	url = https://github.com/bioc/evaluomeR
 	branch = RELEASE_3_23
+[submodule "ewceData"]
+	path = ewceData
+	url = https://github.com/bioc/ewceData
+	branch = RELEASE_3_23
+	type = data
 [submodule "extraChIPs"]
 	path = extraChIPs
 	url = https://github.com/bioc/extraChIPs
@@ -6070,10 +7615,20 @@
 	path = fRagmentomics
 	url = https://github.com/bioc/fRagmentomics
 	branch = RELEASE_3_23
+[submodule "faahKO"]
+	path = faahKO
+	url = https://github.com/bioc/faahKO
+	branch = RELEASE_3_23
+	type = data
 [submodule "fabia"]
 	path = fabia
 	url = https://github.com/bioc/fabia
 	branch = RELEASE_3_23
+[submodule "fabiaData"]
+	path = fabiaData
+	url = https://github.com/bioc/fabiaData
+	branch = RELEASE_3_23
+	type = data
 [submodule "factDesign"]
 	path = factDesign
 	url = https://github.com/bioc/factDesign
@@ -6126,6 +7681,11 @@
 	path = ffpe
 	url = https://github.com/bioc/ffpe
 	branch = RELEASE_3_23
+[submodule "ffpeExampleData"]
+	path = ffpeExampleData
+	url = https://github.com/bioc/ffpeExampleData
+	branch = RELEASE_3_23
+	type = data
 [submodule "fgga"]
 	path = fgga
 	url = https://github.com/bioc/fgga
@@ -6134,6 +7694,11 @@
 	path = fgsea
 	url = https://github.com/bioc/fgsea
 	branch = RELEASE_3_23
+[submodule "fibroEset"]
+	path = fibroEset
+	url = https://github.com/bioc/fibroEset
+	branch = RELEASE_3_23
+	type = data
 [submodule "findIPs"]
 	path = findIPs
 	url = https://github.com/bioc/findIPs
@@ -6142,6 +7707,11 @@
 	path = fishpond
 	url = https://github.com/bioc/fishpond
 	branch = RELEASE_3_23
+[submodule "fission"]
+	path = fission
+	url = https://github.com/bioc/fission
+	branch = RELEASE_3_23
+	type = data
 [submodule "flagme"]
 	path = flagme
 	url = https://github.com/bioc/flagme
@@ -6218,6 +7788,11 @@
 	path = flowPloidy
 	url = https://github.com/bioc/flowPloidy
 	branch = RELEASE_3_23
+[submodule "flowPloidyData"]
+	path = flowPloidyData
+	url = https://github.com/bioc/flowPloidyData
+	branch = RELEASE_3_23
+	type = data
 [submodule "flowPlots"]
 	path = flowPlots
 	url = https://github.com/bioc/flowPlots
@@ -6250,9 +7825,18 @@
 	path = flowWorkspace
 	url = https://github.com/bioc/flowWorkspace
 	branch = RELEASE_3_23
+[submodule "flowWorkspaceData"]
+	path = flowWorkspaceData
+	url = https://github.com/bioc/flowWorkspaceData
+	branch = RELEASE_3_23
+	type = data
 [submodule "flowcatchR"]
 	path = flowcatchR
 	url = https://github.com/bioc/flowcatchR
+	branch = RELEASE_3_23
+[submodule "fluentGenomics"]
+	path = fluentGenomics
+	url = https://github.com/bioc/fluentGenomics
 	branch = RELEASE_3_23
 [submodule "fmcsR"]
 	path = fmcsR
@@ -6266,6 +7850,11 @@
 	path = fobitools
 	url = https://github.com/bioc/fobitools
 	branch = RELEASE_3_23
+[submodule "fourDNData"]
+	path = fourDNData
+	url = https://github.com/bioc/fourDNData
+	branch = RELEASE_3_23
+	type = data
 [submodule "fourSynergy"]
 	path = fourSynergy
 	url = https://github.com/bioc/fourSynergy
@@ -6282,6 +7871,11 @@
 	path = frma
 	url = https://github.com/bioc/frma
 	branch = RELEASE_3_23
+[submodule "frmaExampleData"]
+	path = frmaExampleData
+	url = https://github.com/bioc/frmaExampleData
+	branch = RELEASE_3_23
+	type = data
 [submodule "frmaTools"]
 	path = frmaTools
 	url = https://github.com/bioc/frmaTools
@@ -6294,10 +7888,20 @@
 	path = funtooNorm
 	url = https://github.com/bioc/funtooNorm
 	branch = RELEASE_3_23
+[submodule "furrowSeg"]
+	path = furrowSeg
+	url = https://git.bioconductor.org/packages/furrowSeg
+	branch = RELEASE_3_23
+	type = data
 [submodule "gCrisprTools"]
 	path = gCrisprTools
 	url = https://github.com/bioc/gCrisprTools
 	branch = RELEASE_3_23
+[submodule "gDNAinRNAseqData"]
+	path = gDNAinRNAseqData
+	url = https://github.com/bioc/gDNAinRNAseqData
+	branch = RELEASE_3_23
+	type = data
 [submodule "gDNAx"]
 	path = gDNAx
 	url = https://github.com/bioc/gDNAx
@@ -6318,6 +7922,11 @@
 	path = gDRstyle
 	url = https://github.com/bioc/gDRstyle
 	branch = RELEASE_3_23
+[submodule "gDRtestData"]
+	path = gDRtestData
+	url = https://github.com/bioc/gDRtestData
+	branch = RELEASE_3_23
+	type = data
 [submodule "gDRutils"]
 	path = gDRutils
 	url = https://github.com/bioc/gDRutils
@@ -6338,10 +7947,20 @@
 	path = gage
 	url = https://github.com/bioc/gage
 	branch = RELEASE_3_23
+[submodule "gageData"]
+	path = gageData
+	url = https://github.com/bioc/gageData
+	branch = RELEASE_3_23
+	type = data
 [submodule "garfield"]
 	path = garfield
 	url = https://github.com/bioc/garfield
 	branch = RELEASE_3_23
+[submodule "gaschYHS"]
+	path = gaschYHS
+	url = https://github.com/bioc/gaschYHS
+	branch = RELEASE_3_23
+	type = data
 [submodule "gatom"]
 	path = gatom
 	url = https://github.com/bioc/gatom
@@ -6358,6 +7977,11 @@
 	path = gcrma
 	url = https://github.com/bioc/gcrma
 	branch = RELEASE_3_23
+[submodule "gcspikelite"]
+	path = gcspikelite
+	url = https://github.com/bioc/gcspikelite
+	branch = RELEASE_3_23
+	type = data
 [submodule "gdsfmt"]
 	path = gdsfmt
 	url = https://github.com/bioc/gdsfmt
@@ -6386,6 +8010,11 @@
 	path = geneClassifiers
 	url = https://github.com/bioc/geneClassifiers
 	branch = RELEASE_3_23
+[submodule "geneLenDataBase"]
+	path = geneLenDataBase
+	url = https://github.com/bioc/geneLenDataBase
+	branch = RELEASE_3_23
+	type = data
 [submodule "geneRecommender"]
 	path = geneRecommender
 	url = https://github.com/bioc/geneRecommender
@@ -6414,10 +8043,19 @@
 	path = geneplotter
 	url = https://github.com/bioc/geneplotter
 	branch = RELEASE_3_23
+[submodule "generegulation"]
+	path = generegulation
+	url = https://github.com/bioc/generegulation
+	branch = RELEASE_3_23
 [submodule "genomation"]
 	path = genomation
 	url = https://github.com/bioc/genomation
 	branch = RELEASE_3_23
+[submodule "genomationData"]
+	path = genomationData
+	url = https://github.com/bioc/genomationData
+	branch = RELEASE_3_23
+	type = data
 [submodule "genomeIntervals"]
 	path = genomeIntervals
 	url = https://github.com/bioc/genomeIntervals
@@ -6554,10 +8192,20 @@
 	path = goatea
 	url = https://github.com/bioc/goatea
 	branch = RELEASE_3_23
+[submodule "golubEsets"]
+	path = golubEsets
+	url = https://github.com/bioc/golubEsets
+	branch = RELEASE_3_23
+	type = data
 [submodule "goseq"]
 	path = goseq
 	url = https://github.com/bioc/goseq
 	branch = RELEASE_3_23
+[submodule "gpaExample"]
+	path = gpaExample
+	url = https://github.com/bioc/gpaExample
+	branch = RELEASE_3_23
+	type = data
 [submodule "gpls"]
 	path = gpls
 	url = https://github.com/bioc/gpls
@@ -6578,6 +8226,11 @@
 	path = graphite
 	url = https://github.com/bioc/graphite
 	branch = RELEASE_3_23
+[submodule "grndata"]
+	path = grndata
+	url = https://github.com/bioc/grndata
+	branch = RELEASE_3_23
+	type = data
 [submodule "groHMM"]
 	path = groHMM
 	url = https://github.com/bioc/groHMM
@@ -6614,6 +8267,11 @@
 	path = h5vc
 	url = https://git.bioconductor.org/packages/h5vc
 	branch = RELEASE_3_23
+[submodule "h5vcData"]
+	path = h5vcData
+	url = https://github.com/bioc/h5vcData
+	branch = RELEASE_3_23
+	type = data
 [submodule "hammers"]
 	path = hammers
 	url = https://github.com/bioc/hammers
@@ -6622,6 +8280,41 @@
 	path = hapFabia
 	url = https://github.com/bioc/hapFabia
 	branch = RELEASE_3_23
+[submodule "hapmap100khind"]
+	path = hapmap100khind
+	url = https://github.com/bioc/hapmap100khind
+	branch = RELEASE_3_23
+	type = data
+[submodule "hapmap100kxba"]
+	path = hapmap100kxba
+	url = https://github.com/bioc/hapmap100kxba
+	branch = RELEASE_3_23
+	type = data
+[submodule "hapmap500knsp"]
+	path = hapmap500knsp
+	url = https://github.com/bioc/hapmap500knsp
+	branch = RELEASE_3_23
+	type = data
+[submodule "hapmap500ksty"]
+	path = hapmap500ksty
+	url = https://github.com/bioc/hapmap500ksty
+	branch = RELEASE_3_23
+	type = data
+[submodule "hapmapsnp5"]
+	path = hapmapsnp5
+	url = https://github.com/bioc/hapmapsnp5
+	branch = RELEASE_3_23
+	type = data
+[submodule "hapmapsnp6"]
+	path = hapmapsnp6
+	url = https://git.bioconductor.org/packages/hapmapsnp6
+	branch = RELEASE_3_23
+	type = data
+[submodule "harbChIP"]
+	path = harbChIP
+	url = https://github.com/bioc/harbChIP
+	branch = RELEASE_3_23
+	type = data
 [submodule "hca"]
 	path = hca
 	url = https://github.com/bioc/hca
@@ -6630,6 +8323,16 @@
 	path = hdxmsqc
 	url = https://github.com/bioc/hdxmsqc
 	branch = RELEASE_3_23
+[submodule "healthyControlsPresenceChecker"]
+	path = healthyControlsPresenceChecker
+	url = https://github.com/bioc/healthyControlsPresenceChecker
+	branch = RELEASE_3_23
+	type = data
+[submodule "healthyFlowData"]
+	path = healthyFlowData
+	url = https://github.com/bioc/healthyFlowData
+	branch = RELEASE_3_23
+	type = data
 [submodule "heatmaps"]
 	path = heatmaps
 	url = https://github.com/bioc/heatmaps
@@ -6638,6 +8341,26 @@
 	path = hermes
 	url = https://github.com/bioc/hermes
 	branch = RELEASE_3_23
+[submodule "hgu133abarcodevecs"]
+	path = hgu133abarcodevecs
+	url = https://github.com/bioc/hgu133abarcodevecs
+	branch = RELEASE_3_23
+	type = data
+[submodule "hgu133plus2CellScore"]
+	path = hgu133plus2CellScore
+	url = https://github.com/bioc/hgu133plus2CellScore
+	branch = RELEASE_3_23
+	type = data
+[submodule "hgu133plus2barcodevecs"]
+	path = hgu133plus2barcodevecs
+	url = https://github.com/bioc/hgu133plus2barcodevecs
+	branch = RELEASE_3_23
+	type = data
+[submodule "hgu2beta7"]
+	path = hgu2beta7
+	url = https://github.com/bioc/hgu2beta7
+	branch = RELEASE_3_23
+	type = data
 [submodule "hicVennDiagram"]
 	path = hicVennDiagram
 	url = https://github.com/bioc/hicVennDiagram
@@ -6650,6 +8373,10 @@
 	path = hierinf
 	url = https://github.com/bioc/hierinf
 	branch = RELEASE_3_23
+[submodule "highthroughputassays"]
+	path = highthroughputassays
+	url = https://github.com/bioc/highthroughputassays
+	branch = RELEASE_3_23
 [submodule "hipathia"]
 	path = hipathia
 	url = https://github.com/bioc/hipathia
@@ -6658,6 +8385,11 @@
 	path = hmdbQuery
 	url = https://github.com/bioc/hmdbQuery
 	branch = RELEASE_3_23
+[submodule "homosapienDEE2CellScore"]
+	path = homosapienDEE2CellScore
+	url = https://github.com/bioc/homosapienDEE2CellScore
+	branch = RELEASE_3_23
+	type = data
 [submodule "hoodscanR"]
 	path = hoodscanR
 	url = https://github.com/bioc/hoodscanR
@@ -6670,6 +8402,16 @@
 	path = hpar
 	url = https://github.com/bioc/hpar
 	branch = RELEASE_3_23
+[submodule "humanHippocampus2024"]
+	path = humanHippocampus2024
+	url = https://github.com/bioc/humanHippocampus2024
+	branch = RELEASE_3_23
+	type = data
+[submodule "humanStemCell"]
+	path = humanStemCell
+	url = https://github.com/bioc/humanStemCell
+	branch = RELEASE_3_23
+	type = data
 [submodule "hummingbird"]
 	path = hummingbird
 	url = https://github.com/bioc/hummingbird
@@ -6730,6 +8472,11 @@
 	path = iModMix
 	url = https://github.com/bioc/iModMix
 	branch = RELEASE_3_23
+[submodule "iModMixData"]
+	path = iModMixData
+	url = https://github.com/bioc/iModMixData
+	branch = RELEASE_3_23
+	type = data
 [submodule "iNETgrate"]
 	path = iNETgrate
 	url = https://github.com/bioc/iNETgrate
@@ -6838,6 +8585,11 @@
 	path = imcRtools
 	url = https://github.com/bioc/imcRtools
 	branch = RELEASE_3_23
+[submodule "imcdatasets"]
+	path = imcdatasets
+	url = https://github.com/bioc/imcdatasets
+	branch = RELEASE_3_23
+	type = data
 [submodule "immApex"]
 	path = immApex
 	url = https://github.com/bioc/immApex
@@ -6938,6 +8690,11 @@
 	path = keggorthology
 	url = https://github.com/bioc/keggorthology
 	branch = RELEASE_3_23
+[submodule "kidpack"]
+	path = kidpack
+	url = https://github.com/bioc/kidpack
+	branch = RELEASE_3_23
+	type = data
 [submodule "kissDE"]
 	path = kissDE
 	url = https://github.com/bioc/kissDE
@@ -6966,6 +8723,11 @@
 	path = leapR
 	url = https://github.com/bioc/leapR
 	branch = RELEASE_3_23
+[submodule "leeBamViews"]
+	path = leeBamViews
+	url = https://github.com/bioc/leeBamViews
+	branch = RELEASE_3_23
+	type = data
 [submodule "lefser"]
 	path = lefser
 	url = https://github.com/bioc/lefser
@@ -6978,6 +8740,11 @@
 	path = les
 	url = https://github.com/bioc/les
 	branch = RELEASE_3_23
+[submodule "leukemiasEset"]
+	path = leukemiasEset
+	url = https://github.com/bioc/leukemiasEset
+	branch = RELEASE_3_23
+	type = data
 [submodule "levi"]
 	path = levi
 	url = https://github.com/bioc/levi
@@ -6985,6 +8752,10 @@
 [submodule "lfa"]
 	path = lfa
 	url = https://github.com/bioc/lfa
+	branch = RELEASE_3_23
+[submodule "liftOver"]
+	path = liftOver
+	url = https://github.com/bioc/liftOver
 	branch = RELEASE_3_23
 [submodule "limma"]
 	path = limma
@@ -7054,6 +8825,21 @@
 	path = lumi
 	url = https://github.com/bioc/lumi
 	branch = RELEASE_3_23
+[submodule "lumiBarnes"]
+	path = lumiBarnes
+	url = https://github.com/bioc/lumiBarnes
+	branch = RELEASE_3_23
+	type = data
+[submodule "lungExpression"]
+	path = lungExpression
+	url = https://github.com/bioc/lungExpression
+	branch = RELEASE_3_23
+	type = data
+[submodule "lydata"]
+	path = lydata
+	url = https://github.com/bioc/lydata
+	branch = RELEASE_3_23
+	type = data
 [submodule "m6Aboost"]
 	path = m6Aboost
 	url = https://github.com/bioc/m6Aboost
@@ -7066,9 +8852,18 @@
 	path = mCSEA
 	url = https://github.com/bioc/mCSEA
 	branch = RELEASE_3_23
+[submodule "mCSEAdata"]
+	path = mCSEAdata
+	url = https://github.com/bioc/mCSEAdata
+	branch = RELEASE_3_23
+	type = data
 [submodule "maCorrPlot"]
 	path = maCorrPlot
 	url = https://github.com/bioc/maCorrPlot
+	branch = RELEASE_3_23
+[submodule "maEndToEnd"]
+	path = maEndToEnd
+	url = https://github.com/bioc/maEndToEnd
 	branch = RELEASE_3_23
 [submodule "maPredictDSC"]
 	path = maPredictDSC
@@ -7082,6 +8877,11 @@
 	path = maaslin3
 	url = https://github.com/bioc/maaslin3
 	branch = RELEASE_3_23
+[submodule "macrophage"]
+	path = macrophage
+	url = https://github.com/bioc/macrophage
+	branch = RELEASE_3_23
+	type = data
 [submodule "made4"]
 	path = made4
 	url = https://github.com/bioc/made4
@@ -7102,14 +8902,29 @@
 	path = makecdfenv
 	url = https://github.com/bioc/makecdfenv
 	branch = RELEASE_3_23
+[submodule "mammaPrintData"]
+	path = mammaPrintData
+	url = https://git.bioconductor.org/packages/mammaPrintData
+	branch = RELEASE_3_23
+	type = data
 [submodule "mapscape"]
 	path = mapscape
 	url = https://github.com/bioc/mapscape
 	branch = RELEASE_3_23
+[submodule "maqcExpression4plex"]
+	path = maqcExpression4plex
+	url = https://github.com/bioc/maqcExpression4plex
+	branch = RELEASE_3_23
+	type = data
 [submodule "mariner"]
 	path = mariner
 	url = https://github.com/bioc/mariner
 	branch = RELEASE_3_23
+[submodule "marinerData"]
+	path = marinerData
+	url = https://github.com/bioc/marinerData
+	branch = RELEASE_3_23
+	type = data
 [submodule "markeR"]
 	path = markeR
 	url = https://github.com/bioc/markeR
@@ -7158,6 +8973,11 @@
 	path = mbkmeans
 	url = https://github.com/bioc/mbkmeans
 	branch = RELEASE_3_23
+[submodule "mcsurvdata"]
+	path = mcsurvdata
+	url = https://github.com/bioc/mcsurvdata
+	branch = RELEASE_3_23
+	type = data
 [submodule "mdp"]
 	path = mdp
 	url = https://github.com/bioc/mdp
@@ -7194,6 +9014,11 @@
 	path = metaMS
 	url = https://github.com/bioc/metaMS
 	branch = RELEASE_3_23
+[submodule "metaMSdata"]
+	path = metaMSdata
+	url = https://github.com/bioc/metaMSdata
+	branch = RELEASE_3_23
+	type = data
 [submodule "metaSeq"]
 	path = metaSeq
 	url = https://github.com/bioc/metaSeq
@@ -7290,10 +9115,19 @@
 	path = methylSig
 	url = https://github.com/bioc/methylSig
 	branch = RELEASE_3_23
+[submodule "methylationArrayAnalysis"]
+	path = methylationArrayAnalysis
+	url = https://github.com/bioc/methylationArrayAnalysis
+	branch = RELEASE_3_23
 [submodule "methylclock"]
 	path = methylclock
 	url = https://github.com/bioc/methylclock
 	branch = RELEASE_3_23
+[submodule "methylclockData"]
+	path = methylclockData
+	url = https://github.com/bioc/methylclockData
+	branch = RELEASE_3_23
+	type = data
 [submodule "methylscaper"]
 	path = methylscaper
 	url = https://github.com/bioc/methylscaper
@@ -7322,6 +9156,11 @@
 	path = miRLAB
 	url = https://github.com/bioc/miRLAB
 	branch = RELEASE_3_23
+[submodule "miRNATarget"]
+	path = miRNATarget
+	url = https://github.com/bioc/miRNATarget
+	branch = RELEASE_3_23
+	type = data
 [submodule "miRNAmeConverter"]
 	path = miRNAmeConverter
 	url = https://github.com/bioc/miRNAmeConverter
@@ -7342,6 +9181,11 @@
 	path = miRcomp
 	url = https://github.com/bioc/miRcomp
 	branch = RELEASE_3_23
+[submodule "miRcompData"]
+	path = miRcompData
+	url = https://github.com/bioc/miRcompData
+	branch = RELEASE_3_23
+	type = data
 [submodule "miRspongeR"]
 	path = miRspongeR
 	url = https://github.com/bioc/miRspongeR
@@ -7370,6 +9214,11 @@
 	path = microRNA
 	url = https://github.com/bioc/microRNA
 	branch = RELEASE_3_23
+[submodule "microRNAome"]
+	path = microRNAome
+	url = https://github.com/bioc/microRNAome
+	branch = RELEASE_3_23
+	type = data
 [submodule "microSTASIS"]
 	path = microSTASIS
 	url = https://github.com/bioc/microSTASIS
@@ -7382,6 +9231,11 @@
 	path = microbiomeDASim
 	url = https://github.com/bioc/microbiomeDASim
 	branch = RELEASE_3_23
+[submodule "microbiomeDataSets"]
+	path = microbiomeDataSets
+	url = https://github.com/bioc/microbiomeDataSets
+	branch = RELEASE_3_23
+	type = data
 [submodule "microbiomeExplorer"]
 	path = microbiomeExplorer
 	url = https://github.com/bioc/microbiomeExplorer
@@ -7410,6 +9264,21 @@
 	path = minfi
 	url = https://github.com/bioc/minfi
 	branch = RELEASE_3_23
+[submodule "minfiData"]
+	path = minfiData
+	url = https://github.com/bioc/minfiData
+	branch = RELEASE_3_23
+	type = data
+[submodule "minfiDataEPIC"]
+	path = minfiDataEPIC
+	url = https://github.com/bioc/minfiDataEPIC
+	branch = RELEASE_3_23
+	type = data
+[submodule "minionSummaryData"]
+	path = minionSummaryData
+	url = https://github.com/bioc/minionSummaryData
+	branch = RELEASE_3_23
+	type = data
 [submodule "mirIntegrator"]
 	path = mirIntegrator
 	url = https://github.com/bioc/mirIntegrator
@@ -7478,6 +9347,11 @@
 	path = mosaics
 	url = https://github.com/bioc/mosaics
 	branch = RELEASE_3_23
+[submodule "mosaicsExample"]
+	path = mosaicsExample
+	url = https://github.com/bioc/mosaicsExample
+	branch = RELEASE_3_23
+	type = data
 [submodule "mosbi"]
 	path = mosbi
 	url = https://github.com/bioc/mosbi
@@ -7506,6 +9380,11 @@
 	path = motifmatchr
 	url = https://github.com/bioc/motifmatchr
 	branch = RELEASE_3_23
+[submodule "mouse4302barcodevecs"]
+	path = mouse4302barcodevecs
+	url = https://github.com/bioc/mouse4302barcodevecs
+	branch = RELEASE_3_23
+	type = data
 [submodule "mpra"]
 	path = mpra
 	url = https://github.com/bioc/mpra
@@ -7518,14 +9397,34 @@
 	path = msPurity
 	url = https://github.com/bioc/msPurity
 	branch = RELEASE_3_23
+[submodule "msPurityData"]
+	path = msPurityData
+	url = https://github.com/bioc/msPurityData
+	branch = RELEASE_3_23
+	type = data
 [submodule "msa"]
 	path = msa
 	url = https://github.com/bioc/msa
 	branch = RELEASE_3_23
+[submodule "msd16s"]
+	path = msd16s
+	url = https://github.com/bioc/msd16s
+	branch = RELEASE_3_23
+	type = data
+[submodule "msdata"]
+	path = msdata
+	url = https://github.com/bioc/msdata
+	branch = RELEASE_3_23
+	type = data
 [submodule "msgbsR"]
 	path = msgbsR
 	url = https://github.com/bioc/msgbsR
 	branch = RELEASE_3_23
+[submodule "msigdb"]
+	path = msigdb
+	url = https://github.com/bioc/msigdb
+	branch = RELEASE_3_23
+	type = data
 [submodule "mslp"]
 	path = mslp
 	url = https://github.com/bioc/mslp
@@ -7542,10 +9441,30 @@
 	path = mspms
 	url = https://github.com/bioc/mspms
 	branch = RELEASE_3_23
+[submodule "msqc1"]
+	path = msqc1
+	url = https://github.com/bioc/msqc1
+	branch = RELEASE_3_23
+	type = data
 [submodule "msqrob2"]
 	path = msqrob2
 	url = https://github.com/bioc/msqrob2
 	branch = RELEASE_3_23
+[submodule "mtbls2"]
+	path = mtbls2
+	url = https://github.com/bioc/mtbls2
+	branch = RELEASE_3_23
+	type = data
+[submodule "muSpaData"]
+	path = muSpaData
+	url = https://github.com/bioc/muSpaData
+	branch = RELEASE_3_23
+	type = data
+[submodule "muleaData"]
+	path = muleaData
+	url = https://github.com/bioc/muleaData
+	branch = RELEASE_3_23
+	type = data
 [submodule "multiClust"]
 	path = multiClust
 	url = https://github.com/bioc/multiClust
@@ -7566,6 +9485,11 @@
 	path = multiWGCNA
 	url = https://github.com/bioc/multiWGCNA
 	branch = RELEASE_3_23
+[submodule "multiWGCNAdata"]
+	path = multiWGCNAdata
+	url = https://github.com/bioc/multiWGCNAdata
+	branch = RELEASE_3_23
+	type = data
 [submodule "multicrispr"]
 	path = multicrispr
 	url = https://github.com/bioc/multicrispr
@@ -7586,6 +9510,11 @@
 	path = mumosa
 	url = https://github.com/bioc/mumosa
 	branch = RELEASE_3_23
+[submodule "muscData"]
+	path = muscData
+	url = https://github.com/bioc/muscData
+	branch = RELEASE_3_23
+	type = data
 [submodule "muscat"]
 	path = muscat
 	url = https://github.com/bioc/muscat
@@ -7602,6 +9531,11 @@
 	path = mutscan
 	url = https://github.com/bioc/mutscan
 	branch = RELEASE_3_23
+[submodule "mvoutData"]
+	path = mvoutData
+	url = https://github.com/bioc/mvoutData
+	branch = RELEASE_3_23
+	type = data
 [submodule "mygene"]
 	path = mygene
 	url = https://github.com/bioc/mygene
@@ -7618,6 +9552,11 @@
 	path = mzR
 	url = https://github.com/bioc/mzR
 	branch = RELEASE_3_23
+[submodule "nanotubes"]
+	path = nanotubes
+	url = https://github.com/bioc/nanotubes
+	branch = RELEASE_3_23
+	type = data
 [submodule "ncGTW"]
 	path = ncGTW
 	url = https://github.com/bioc/ncGTW
@@ -7674,6 +9613,11 @@
 	path = nipalsMCIA
 	url = https://github.com/bioc/nipalsMCIA
 	branch = RELEASE_3_23
+[submodule "nmrdata"]
+	path = nmrdata
+	url = https://github.com/bioc/nmrdata
+	branch = RELEASE_3_23
+	type = data
 [submodule "nnNorm"]
 	path = nnNorm
 	url = https://github.com/bioc/nnNorm
@@ -7726,14 +9670,29 @@
 	path = nullranges
 	url = https://github.com/bioc/nullranges
 	branch = RELEASE_3_23
+[submodule "nullrangesData"]
+	path = nullrangesData
+	url = https://github.com/bioc/nullrangesData
+	branch = RELEASE_3_23
+	type = data
 [submodule "occugene"]
 	path = occugene
 	url = https://github.com/bioc/occugene
 	branch = RELEASE_3_23
+[submodule "oct4"]
+	path = oct4
+	url = https://github.com/bioc/oct4
+	branch = RELEASE_3_23
+	type = data
 [submodule "octad"]
 	path = octad
 	url = https://github.com/bioc/octad
 	branch = RELEASE_3_23
+[submodule "octad.db"]
+	path = octad.db
+	url = https://github.com/bioc/octad.db
+	branch = RELEASE_3_23
+	type = data
 [submodule "odseq"]
 	path = odseq
 	url = https://github.com/bioc/odseq
@@ -7818,6 +9777,11 @@
 	path = optimalFlow
 	url = https://github.com/bioc/optimalFlow
 	branch = RELEASE_3_23
+[submodule "optimalFlowData"]
+	path = optimalFlowData
+	url = https://github.com/bioc/optimalFlowData
+	branch = RELEASE_3_23
+	type = data
 [submodule "orthogene"]
 	path = orthogene
 	url = https://github.com/bioc/orthogene
@@ -7826,6 +9790,11 @@
 	path = orthos
 	url = https://github.com/bioc/orthos
 	branch = RELEASE_3_23
+[submodule "orthosData"]
+	path = orthosData
+	url = https://github.com/bioc/orthosData
+	branch = RELEASE_3_23
+	type = data
 [submodule "pRoloc"]
 	path = pRoloc
 	url = https://github.com/bioc/pRoloc
@@ -7834,6 +9803,11 @@
 	path = pRolocGUI
 	url = https://github.com/bioc/pRolocGUI
 	branch = RELEASE_3_23
+[submodule "pRolocdata"]
+	path = pRolocdata
+	url = https://github.com/bioc/pRolocdata
+	branch = RELEASE_3_23
+	type = data
 [submodule "packFinder"]
 	path = packFinder
 	url = https://github.com/bioc/packFinder
@@ -7886,6 +9860,16 @@
 	path = partCNV
 	url = https://github.com/bioc/partCNV
 	branch = RELEASE_3_23
+[submodule "pasilla"]
+	path = pasilla
+	url = https://github.com/bioc/pasilla
+	branch = RELEASE_3_23
+	type = data
+[submodule "pasillaBamSubset"]
+	path = pasillaBamSubset
+	url = https://github.com/bioc/pasillaBamSubset
+	branch = RELEASE_3_23
+	type = data
 [submodule "pathMED"]
 	path = pathMED
 	url = https://github.com/bioc/pathMED
@@ -7918,6 +9902,11 @@
 	path = pcaMethods
 	url = https://github.com/bioc/pcaMethods
 	branch = RELEASE_3_23
+[submodule "pd.atdschip.tiling"]
+	path = pd.atdschip.tiling
+	url = https://git.bioconductor.org/packages/pd.atdschip.tiling
+	branch = RELEASE_3_23
+	type = data
 [submodule "pdInfoBuilder"]
 	path = pdInfoBuilder
 	url = https://github.com/bioc/pdInfoBuilder
@@ -7938,6 +9927,11 @@
 	path = pengls
 	url = https://github.com/bioc/pengls
 	branch = RELEASE_3_23
+[submodule "pepDat"]
+	path = pepDat
+	url = https://github.com/bioc/pepDat
+	branch = RELEASE_3_23
+	type = data
 [submodule "pepStat"]
 	path = pepStat
 	url = https://github.com/bioc/pepStat
@@ -8042,6 +10036,11 @@
 	path = plotgardener
 	url = https://github.com/bioc/plotgardener
 	branch = RELEASE_3_23
+[submodule "plotgardenerData"]
+	path = plotgardenerData
+	url = https://github.com/bioc/plotgardenerData
+	branch = RELEASE_3_23
+	type = data
 [submodule "plyinteractions"]
 	path = plyinteractions
 	url = https://github.com/bioc/plyinteractions
@@ -8102,10 +10101,20 @@
 	path = prebs
 	url = https://github.com/bioc/prebs
 	branch = RELEASE_3_23
+[submodule "prebsdata"]
+	path = prebsdata
+	url = https://github.com/bioc/prebsdata
+	branch = RELEASE_3_23
+	type = data
 [submodule "preciseTAD"]
 	path = preciseTAD
 	url = https://github.com/bioc/preciseTAD
 	branch = RELEASE_3_23
+[submodule "preciseTADhub"]
+	path = preciseTADhub
+	url = https://github.com/bioc/preciseTADhub
+	branch = RELEASE_3_23
+	type = data
 [submodule "preprocessCore"]
 	path = preprocessCore
 	url = https://github.com/bioc/preprocessCore
@@ -8150,6 +10159,31 @@
 	path = projectR
 	url = https://github.com/bioc/projectR
 	branch = RELEASE_3_23
+[submodule "prostateCancerCamcap"]
+	path = prostateCancerCamcap
+	url = https://github.com/bioc/prostateCancerCamcap
+	branch = RELEASE_3_23
+	type = data
+[submodule "prostateCancerGrasso"]
+	path = prostateCancerGrasso
+	url = https://github.com/bioc/prostateCancerGrasso
+	branch = RELEASE_3_23
+	type = data
+[submodule "prostateCancerStockholm"]
+	path = prostateCancerStockholm
+	url = https://github.com/bioc/prostateCancerStockholm
+	branch = RELEASE_3_23
+	type = data
+[submodule "prostateCancerTaylor"]
+	path = prostateCancerTaylor
+	url = https://github.com/bioc/prostateCancerTaylor
+	branch = RELEASE_3_23
+	type = data
+[submodule "prostateCancerVarambally"]
+	path = prostateCancerVarambally
+	url = https://github.com/bioc/prostateCancerVarambally
+	branch = RELEASE_3_23
+	type = data
 [submodule "protGear"]
 	path = protGear
 	url = https://github.com/bioc/protGear
@@ -8162,6 +10196,11 @@
 	path = psichomics
 	url = https://github.com/bioc/psichomics
 	branch = RELEASE_3_23
+[submodule "ptairData"]
+	path = ptairData
+	url = https://github.com/bioc/ptairData
+	branch = RELEASE_3_23
+	type = data
 [submodule "ptairMS"]
 	path = ptairMS
 	url = https://github.com/bioc/ptairMS
@@ -8170,6 +10209,11 @@
 	path = puma
 	url = https://github.com/bioc/puma
 	branch = RELEASE_3_23
+[submodule "pumadata"]
+	path = pumadata
+	url = https://github.com/bioc/pumadata
+	branch = RELEASE_3_23
+	type = data
 [submodule "pvac"]
 	path = pvac
 	url = https://github.com/bioc/pvac
@@ -8186,6 +10230,11 @@
 	path = qPLEXanalyzer
 	url = https://github.com/bioc/qPLEXanalyzer
 	branch = RELEASE_3_23
+[submodule "qPLEXdata"]
+	path = qPLEXdata
+	url = https://github.com/bioc/qPLEXdata
+	branch = RELEASE_3_23
+	type = data
 [submodule "qcmetrics"]
 	path = qcmetrics
 	url = https://github.com/bioc/qcmetrics
@@ -8286,6 +10335,11 @@
 	path = raer
 	url = https://github.com/bioc/raer
 	branch = RELEASE_3_23
+[submodule "raerdata"]
+	path = raerdata
+	url = https://github.com/bioc/raerdata
+	branch = RELEASE_3_23
+	type = data
 [submodule "rain"]
 	path = rain
 	url = https://github.com/bioc/rain
@@ -8322,6 +10376,11 @@
 	path = rcellminer
 	url = https://github.com/bioc/rcellminer
 	branch = RELEASE_3_23
+[submodule "rcellminerData"]
+	path = rcellminerData
+	url = https://github.com/bioc/rcellminerData
+	branch = RELEASE_3_23
+	type = data
 [submodule "rebook"]
 	path = rebook
 	url = https://github.com/bioc/rebook
@@ -8341,6 +10400,10 @@
 [submodule "recount3"]
 	path = recount3
 	url = https://github.com/bioc/recount3
+	branch = RELEASE_3_23
+[submodule "recountWorkflow"]
+	path = recountWorkflow
+	url = https://github.com/bioc/recountWorkflow
 	branch = RELEASE_3_23
 [submodule "recountmethylation"]
 	path = recountmethylation
@@ -8410,6 +10473,11 @@
 	path = rhdf5filters
 	url = https://github.com/bioc/rhdf5filters
 	branch = RELEASE_3_23
+[submodule "rheumaticConditionWOLLBOLD"]
+	path = rheumaticConditionWOLLBOLD
+	url = https://github.com/bioc/rheumaticConditionWOLLBOLD
+	branch = RELEASE_3_23
+	type = data
 [submodule "rhinotypeR"]
 	path = rhinotypeR
 	url = https://github.com/bioc/rhinotypeR
@@ -8449,6 +10517,14 @@
 [submodule "rnaEditr"]
 	path = rnaEditr
 	url = https://github.com/bioc/rnaEditr
+	branch = RELEASE_3_23
+[submodule "rnaseqDTU"]
+	path = rnaseqDTU
+	url = https://github.com/bioc/rnaseqDTU
+	branch = RELEASE_3_23
+[submodule "rnaseqGene"]
+	path = rnaseqGene
+	url = https://github.com/bioc/rnaseqGene
 	branch = RELEASE_3_23
 [submodule "rnaseqcomp"]
 	path = rnaseqcomp
@@ -8530,6 +10606,11 @@
 	path = sampleClassifier
 	url = https://github.com/bioc/sampleClassifier
 	branch = RELEASE_3_23
+[submodule "sampleClassifierData"]
+	path = sampleClassifierData
+	url = https://github.com/bioc/sampleClassifierData
+	branch = RELEASE_3_23
+	type = data
 [submodule "sangeranalyseR"]
 	path = sangeranalyseR
 	url = https://github.com/bioc/sangeranalyseR
@@ -8550,6 +10631,11 @@
 	path = satuRn
 	url = https://github.com/bioc/satuRn
 	branch = RELEASE_3_23
+[submodule "scATAC.Explorer"]
+	path = scATAC.Explorer
+	url = https://github.com/bioc/scATAC.Explorer
+	branch = RELEASE_3_23
+	type = data
 [submodule "scAnnotatR"]
 	path = scAnnotatR
 	url = https://github.com/bioc/scAnnotatR
@@ -8654,6 +10740,11 @@
 	path = scMultiSim
 	url = https://github.com/bioc/scMultiSim
 	branch = RELEASE_3_23
+[submodule "scMultiome"]
+	path = scMultiome
+	url = https://github.com/bioc/scMultiome
+	branch = RELEASE_3_23
+	type = data
 [submodule "scPCA"]
 	path = scPCA
 	url = https://github.com/bioc/scPCA
@@ -8670,6 +10761,11 @@
 	path = scQTLtools
 	url = https://github.com/bioc/scQTLtools
 	branch = RELEASE_3_23
+[submodule "scRNAseq"]
+	path = scRNAseq
+	url = https://github.com/bioc/scRNAseq
+	branch = RELEASE_3_23
+	type = data
 [submodule "scRNAseqApp"]
 	path = scRNAseqApp
 	url = https://github.com/bioc/scRNAseqApp
@@ -8698,6 +10794,11 @@
 	path = scTHI
 	url = https://github.com/bioc/scTHI
 	branch = RELEASE_3_23
+[submodule "scTHI.data"]
+	path = scTHI.data
+	url = https://github.com/bioc/scTHI.data
+	branch = RELEASE_3_23
+	type = data
 [submodule "scTensor"]
 	path = scTensor
 	url = https://github.com/bioc/scTensor
@@ -8714,6 +10815,11 @@
 	path = scTypeEval
 	url = https://github.com/bioc/scTypeEval
 	branch = RELEASE_3_23
+[submodule "scaeData"]
+	path = scaeData
+	url = https://github.com/bioc/scaeData
+	branch = RELEASE_3_23
+	type = data
 [submodule "scafari"]
 	path = scafari
 	url = https://github.com/bioc/scafari
@@ -8726,6 +10832,11 @@
 	path = scanMiRApp
 	url = https://github.com/bioc/scanMiRApp
 	branch = RELEASE_3_23
+[submodule "scanMiRData"]
+	path = scanMiRData
+	url = https://github.com/bioc/scanMiRData
+	branch = RELEASE_3_23
+	type = data
 [submodule "scater"]
 	path = scater
 	url = https://github.com/bioc/scater
@@ -8782,6 +10893,11 @@
 	path = scp
 	url = https://github.com/bioc/scp
 	branch = RELEASE_3_23
+[submodule "scpdata"]
+	path = scpdata
+	url = https://github.com/bioc/scpdata
+	branch = RELEASE_3_23
+	type = data
 [submodule "scran"]
 	path = scran
 	url = https://github.com/bioc/scran
@@ -8842,6 +10958,11 @@
 	path = seq2pathway
 	url = https://github.com/bioc/seq2pathway
 	branch = RELEASE_3_23
+[submodule "seq2pathway.data"]
+	path = seq2pathway.data
+	url = https://github.com/bioc/seq2pathway.data
+	branch = RELEASE_3_23
+	type = data
 [submodule "seqCAT"]
 	path = seqCAT
 	url = https://github.com/bioc/seqCAT
@@ -8854,18 +10975,41 @@
 	path = seqPattern
 	url = https://github.com/bioc/seqPattern
 	branch = RELEASE_3_23
+[submodule "seqc"]
+	path = seqc
+	url = https://github.com/bioc/seqc
+	branch = RELEASE_3_23
+	type = data
 [submodule "seqcombo"]
 	path = seqcombo
 	url = https://github.com/bioc/seqcombo
+	branch = RELEASE_3_23
+[submodule "seqpac"]
+	path = seqpac
+	url = https://github.com/bioc/seqpac
 	branch = RELEASE_3_23
 [submodule "seqsetvis"]
 	path = seqsetvis
 	url = https://github.com/bioc/seqsetvis
 	branch = RELEASE_3_23
+[submodule "sequencing"]
+	path = sequencing
+	url = https://github.com/bioc/sequencing
+	branch = RELEASE_3_23
+[submodule "serumStimulation"]
+	path = serumStimulation
+	url = https://github.com/bioc/serumStimulation
+	branch = RELEASE_3_23
+	type = data
 [submodule "sesame"]
 	path = sesame
 	url = https://github.com/bioc/sesame
 	branch = RELEASE_3_23
+[submodule "sesameData"]
+	path = sesameData
+	url = https://github.com/bioc/sesameData
+	branch = RELEASE_3_23
+	type = data
 [submodule "sevenC"]
 	path = sevenC
 	url = https://github.com/bioc/sevenC
@@ -8874,6 +11018,11 @@
 	path = sevenbridges
 	url = https://github.com/bioc/sevenbridges
 	branch = RELEASE_3_23
+[submodule "seventyGeneData"]
+	path = seventyGeneData
+	url = https://github.com/bioc/seventyGeneData
+	branch = RELEASE_3_23
+	type = data
 [submodule "sfi"]
 	path = sfi
 	url = https://github.com/bioc/sfi
@@ -8890,6 +11039,11 @@
 	path = shinyMethyl
 	url = https://github.com/bioc/shinyMethyl
 	branch = RELEASE_3_23
+[submodule "shinyMethylData"]
+	path = shinyMethylData
+	url = https://github.com/bioc/shinyMethylData
+	branch = RELEASE_3_23
+	type = data
 [submodule "shinybiocloader"]
 	path = shinybiocloader
 	url = https://github.com/bioc/shinybiocloader
@@ -8914,6 +11068,11 @@
 	path = signatureSearch
 	url = https://github.com/bioc/signatureSearch
 	branch = RELEASE_3_23
+[submodule "signatureSearchData"]
+	path = signatureSearchData
+	url = https://github.com/bioc/signatureSearchData
+	branch = RELEASE_3_23
+	type = data
 [submodule "signeR"]
 	path = signeR
 	url = https://github.com/bioc/signeR
@@ -8938,9 +11097,18 @@
 	path = simona
 	url = https://github.com/bioc/simona
 	branch = RELEASE_3_23
+[submodule "simpIntLists"]
+	path = simpIntLists
+	url = https://github.com/bioc/simpIntLists
+	branch = RELEASE_3_23
+	type = data
 [submodule "simpleSeg"]
 	path = simpleSeg
 	url = https://github.com/bioc/simpleSeg
+	branch = RELEASE_3_23
+[submodule "simpleSingleCell"]
+	path = simpleSingleCell
+	url = https://github.com/bioc/simpleSingleCell
 	branch = RELEASE_3_23
 [submodule "simplifyEnrichment"]
 	path = simplifyEnrichment
@@ -8994,6 +11162,11 @@
 	path = smartid
 	url = https://github.com/bioc/smartid
 	branch = RELEASE_3_23
+[submodule "smokingMouse"]
+	path = smokingMouse
+	url = https://github.com/bioc/smokingMouse
+	branch = RELEASE_3_23
+	type = data
 [submodule "smoothclust"]
 	path = smoothclust
 	url = https://github.com/bioc/smoothclust
@@ -9054,6 +11227,11 @@
 	path = spatialDE
 	url = https://github.com/bioc/spatialDE
 	branch = RELEASE_3_23
+[submodule "spatialDmelxsim"]
+	path = spatialDmelxsim
+	url = https://github.com/bioc/spatialDmelxsim
+	branch = RELEASE_3_23
+	type = data
 [submodule "spatialFDA"]
 	path = spatialFDA
 	url = https://github.com/bioc/spatialFDA
@@ -9062,6 +11240,11 @@
 	path = spatialHeatmap
 	url = https://github.com/bioc/spatialHeatmap
 	branch = RELEASE_3_23
+[submodule "spatialLIBD"]
+	path = spatialLIBD
+	url = https://github.com/bioc/spatialLIBD
+	branch = RELEASE_3_23
+	type = data
 [submodule "spatialSimGP"]
 	path = spatialSimGP
 	url = https://github.com/bioc/spatialSimGP
@@ -9122,6 +11305,11 @@
 	path = spqn
 	url = https://github.com/bioc/spqn
 	branch = RELEASE_3_23
+[submodule "spqnData"]
+	path = spqnData
+	url = https://github.com/bioc/spqnData
+	branch = RELEASE_3_23
+	type = data
 [submodule "squallms"]
 	path = squallms
 	url = https://github.com/bioc/squallms
@@ -9174,6 +11362,11 @@
 	path = statTarget
 	url = https://github.com/bioc/statTarget
 	branch = RELEASE_3_23
+[submodule "stemHypoxia"]
+	path = stemHypoxia
+	url = https://github.com/bioc/stemHypoxia
+	branch = RELEASE_3_23
+	type = data
 [submodule "stepNorm"]
 	path = stepNorm
 	url = https://github.com/bioc/stepNorm
@@ -9258,6 +11451,11 @@
 	path = systemPipeR
 	url = https://github.com/bioc/systemPipeR
 	branch = RELEASE_3_23
+[submodule "systemPipeRdata"]
+	path = systemPipeRdata
+	url = https://github.com/bioc/systemPipeRdata
+	branch = RELEASE_3_23
+	type = data
 [submodule "systemPipeShiny"]
 	path = systemPipeShiny
 	url = https://github.com/bioc/systemPipeShiny
@@ -9298,6 +11496,11 @@
 	path = target
 	url = https://github.com/bioc/target
 	branch = RELEASE_3_23
+[submodule "tartare"]
+	path = tartare
+	url = https://github.com/bioc/tartare
+	branch = RELEASE_3_23
+	type = data
 [submodule "tenXplore"]
 	path = tenXplore
 	url = https://github.com/bioc/tenXplore
@@ -9374,14 +11577,39 @@
 	path = timecourse
 	url = https://github.com/bioc/timecourse
 	branch = RELEASE_3_23
+[submodule "timecoursedata"]
+	path = timecoursedata
+	url = https://github.com/bioc/timecoursedata
+	branch = RELEASE_3_23
+	type = data
 [submodule "timescape"]
 	path = timescape
 	url = https://github.com/bioc/timescape
 	branch = RELEASE_3_23
+[submodule "tinesath1cdf"]
+	path = tinesath1cdf
+	url = https://github.com/bioc/tinesath1cdf
+	branch = RELEASE_3_23
+	type = data
+[submodule "tinesath1probe"]
+	path = tinesath1probe
+	url = https://github.com/bioc/tinesath1probe
+	branch = RELEASE_3_23
+	type = data
+[submodule "tissueTreg"]
+	path = tissueTreg
+	url = https://github.com/bioc/tissueTreg
+	branch = RELEASE_3_23
+	type = data
 [submodule "tkWidgets"]
 	path = tkWidgets
 	url = https://github.com/bioc/tkWidgets
 	branch = RELEASE_3_23
+[submodule "tofsimsData"]
+	path = tofsimsData
+	url = https://github.com/bioc/tofsimsData
+	branch = RELEASE_3_23
+	type = data
 [submodule "tomoda"]
 	path = tomoda
 	url = https://github.com/bioc/tomoda
@@ -9402,6 +11630,11 @@
 	path = topdownr
 	url = https://github.com/bioc/topdownr
 	branch = RELEASE_3_23
+[submodule "topdownrdata"]
+	path = topdownrdata
+	url = https://github.com/bioc/topdownrdata
+	branch = RELEASE_3_23
+	type = data
 [submodule "toppgene"]
 	path = toppgene
 	url = https://github.com/bioc/toppgene
@@ -9482,10 +11715,20 @@
 	path = ttgsea
 	url = https://github.com/bioc/ttgsea
 	branch = RELEASE_3_23
+[submodule "tuberculosis"]
+	path = tuberculosis
+	url = https://github.com/bioc/tuberculosis
+	branch = RELEASE_3_23
+	type = data
 [submodule "tweeDEseq"]
 	path = tweeDEseq
 	url = https://github.com/bioc/tweeDEseq
 	branch = RELEASE_3_23
+[submodule "tweeDEseqCountData"]
+	path = tweeDEseqCountData
+	url = https://github.com/bioc/tweeDEseqCountData
+	branch = RELEASE_3_23
+	type = data
 [submodule "twilight"]
 	path = twilight
 	url = https://github.com/bioc/twilight
@@ -9510,6 +11753,11 @@
 	path = tximport
 	url = https://github.com/bioc/tximport
 	branch = RELEASE_3_23
+[submodule "tximportData"]
+	path = tximportData
+	url = https://github.com/bioc/tximportData
+	branch = RELEASE_3_23
+	type = data
 [submodule "uSORT"]
 	path = uSORT
 	url = https://github.com/bioc/uSORT
@@ -9533,6 +11781,10 @@
 [submodule "variancePartition"]
 	path = variancePartition
 	url = https://github.com/bioc/variancePartition
+	branch = RELEASE_3_23
+[submodule "variants"]
+	path = variants
+	url = https://github.com/bioc/variants
 	branch = RELEASE_3_23
 [submodule "vbmp"]
 	path = vbmp
@@ -9582,6 +11834,11 @@
 	path = vulcan
 	url = https://github.com/bioc/vulcan
 	branch = RELEASE_3_23
+[submodule "vulcandata"]
+	path = vulcandata
+	url = https://github.com/bioc/vulcandata
+	branch = RELEASE_3_23
+	type = data
 [submodule "waddR"]
 	path = waddR
 	url = https://github.com/bioc/waddR
@@ -9638,6 +11895,11 @@
 	path = xcore
 	url = https://github.com/bioc/xcore
 	branch = RELEASE_3_23
+[submodule "xcoredata"]
+	path = xcoredata
+	url = https://github.com/bioc/xcoredata
+	branch = RELEASE_3_23
+	type = data
 [submodule "xenLite"]
 	path = xenLite
 	url = https://github.com/bioc/xenLite
@@ -9654,10 +11916,40 @@
 	path = yarn
 	url = https://github.com/bioc/yarn
 	branch = RELEASE_3_23
+[submodule "yeastCC"]
+	path = yeastCC
+	url = https://github.com/bioc/yeastCC
+	branch = RELEASE_3_23
+	type = data
+[submodule "yeastExpData"]
+	path = yeastExpData
+	url = https://github.com/bioc/yeastExpData
+	branch = RELEASE_3_23
+	type = data
+[submodule "yeastGSData"]
+	path = yeastGSData
+	url = https://github.com/bioc/yeastGSData
+	branch = RELEASE_3_23
+	type = data
+[submodule "yeastNagalakshmi"]
+	path = yeastNagalakshmi
+	url = https://github.com/bioc/yeastNagalakshmi
+	branch = RELEASE_3_23
+	type = data
+[submodule "yeastRNASeq"]
+	path = yeastRNASeq
+	url = https://github.com/bioc/yeastRNASeq
+	branch = RELEASE_3_23
+	type = data
 [submodule "zFPKM"]
 	path = zFPKM
 	url = https://github.com/bioc/zFPKM
 	branch = RELEASE_3_23
+[submodule "zebrafishRNASeq"]
+	path = zebrafishRNASeq
+	url = https://github.com/bioc/zebrafishRNASeq
+	branch = RELEASE_3_23
+	type = data
 [submodule "zellkonverter"]
 	path = zellkonverter
 	url = https://github.com/bioc/zellkonverter
