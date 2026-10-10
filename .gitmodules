@@ -543,6 +543,11 @@
 	path = BiocBook
 	url = https://github.com/bioc/BiocBook
 	branch = RELEASE_3_23
+[submodule "BiocBookDemo"]
+	path = BiocBookDemo
+	url = https://github.com/bioc/BiocBookDemo
+	branch = RELEASE_3_23
+	type = data
 [submodule "BiocBuildReporter"]
 	path = BiocBuildReporter
 	url = https://github.com/bioc/BiocBuildReporter
@@ -3775,6 +3780,11 @@
 	path = OGRE
 	url = https://github.com/bioc/OGRE
 	branch = RELEASE_3_23
+[submodule "OHCA"]
+	path = OHCA
+	url = https://github.com/bioc/OHCA
+	branch = RELEASE_3_23
+	type = data
 [submodule "OLIN"]
 	path = OLIN
 	url = https://github.com/bioc/OLIN
@@ -3783,6 +3793,11 @@
 	path = OLINgui
 	url = https://github.com/bioc/OLINgui
 	branch = RELEASE_3_23
+[submodule "OMA"]
+	path = OMA
+	url = https://github.com/bioc/OMA
+	branch = RELEASE_3_23
+	type = data
 [submodule "OMICsPCA"]
 	path = OMICsPCA
 	url = https://github.com/bioc/OMICsPCA
@@ -3808,6 +3823,41 @@
 	path = OSAT
 	url = https://github.com/bioc/OSAT
 	branch = RELEASE_3_23
+[submodule "OSCA"]
+	path = OSCA
+	url = https://github.com/bioc/OSCA
+	branch = RELEASE_3_23
+	type = data
+[submodule "OSCA.advanced"]
+	path = OSCA.advanced
+	url = https://github.com/bioc/OSCA.advanced
+	branch = RELEASE_3_23
+	type = data
+[submodule "OSCA.basic"]
+	path = OSCA.basic
+	url = https://github.com/bioc/OSCA.basic
+	branch = RELEASE_3_23
+	type = data
+[submodule "OSCA.intro"]
+	path = OSCA.intro
+	url = https://github.com/bioc/OSCA.intro
+	branch = RELEASE_3_23
+	type = data
+[submodule "OSCA.multisample"]
+	path = OSCA.multisample
+	url = https://github.com/bioc/OSCA.multisample
+	branch = RELEASE_3_23
+	type = data
+[submodule "OSCA.workflows"]
+	path = OSCA.workflows
+	url = https://github.com/bioc/OSCA.workflows
+	branch = RELEASE_3_23
+	type = data
+[submodule "OSTA"]
+	path = OSTA
+	url = https://github.com/bioc/OSTA
+	branch = RELEASE_3_23
+	type = data
 [submodule "OSTA.data"]
 	path = OSTA.data
 	url = https://github.com/bioc/OSTA.data
@@ -5194,6 +5244,11 @@
 	path = SingleR
 	url = https://github.com/bioc/SingleR
 	branch = RELEASE_3_23
+[submodule "SingleRBook"]
+	path = SingleRBook
+	url = https://github.com/bioc/SingleRBook
+	branch = RELEASE_3_23
+	type = data
 [submodule "SingscoreAMLMutations"]
 	path = SingscoreAMLMutations
 	url = https://github.com/bioc/SingscoreAMLMutations
@@ -7007,6 +7062,11 @@
 	path = csaw
 	url = https://github.com/bioc/csaw
 	branch = RELEASE_3_23
+[submodule "csawBook"]
+	path = csawBook
+	url = https://github.com/bioc/csawBook
+	branch = RELEASE_3_23
+	type = data
 [submodule "csawUsersGuide"]
 	path = csawUsersGuide
 	url = https://github.com/bioc/csawUsersGuide
@@ -10902,6 +10962,11 @@
 	path = scran
 	url = https://github.com/bioc/scran
 	branch = RELEASE_3_23
+[submodule "scrapbook"]
+	path = scrapbook
+	url = https://github.com/bioc/scrapbook
+	branch = RELEASE_3_23
+	type = data
 [submodule "scrapper"]
 	path = scrapper
 	url = https://github.com/bioc/scrapper
